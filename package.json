@@ -12,5 +12,8 @@
     "react": "^16.8.2",
     "string-length": "^2.0.0",
     "unicode-length": "^2.0.1"
+  },
+  "devDependencies": {
+    "tap": "^12.6.0"
   }
 }
