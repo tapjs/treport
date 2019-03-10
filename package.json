@@ -15,7 +15,12 @@
     "unicode-length": "^2.0.1"
   },
   "devDependencies": {
+    "events-to-array": "^1.1.2",
     "tap": "^12.6.0"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "tap test/*.js --100 -J",
+    "snap": "TAP_SNAPSHOT=1 tap test/*.js -J"
+  }
 }
