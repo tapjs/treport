@@ -1,2 +1,1 @@
-const importJsx = require('import-jsx')
-module.exports = importJsx('./report.js')
+module.exports = require('import-jsx')('./report.js')
