@@ -1,3 +1,5 @@
+// tell chalk to do colors
+process.argv.push('--color')
 const React = require('react')
 const importJSX = require('import-jsx')
 const t = require('tap')
