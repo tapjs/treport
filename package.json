@@ -28,6 +28,8 @@
     "test-arg": ["--color"]
   },
   "nyc": {
+    "all": true,
+    "skipFull": true,
     "include": [
       "index.js",
       "lib/*.js*"
