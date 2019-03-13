@@ -15,12 +15,11 @@ ok.forEach(ok =>
     todo.forEach(todo =>
       name.forEach(name => cases.push({ok, skip, todo, name})))))
 
-let r
-for (let i = 0; i < cases.length; i++) {
-  if (r)
-    r.rerender(<AssertName {...cases[i]} />)
-  else
-    r = render(<AssertName {...cases[i]} />)
+const r = render(<AssertName {...cases[0]} />)
+t.matchSnapshot(r.lastFrame(), JSON.stringify(cases[0]))
+for (let i = 1; i < cases.length; i++) {
+  r.rerender(<AssertName {...cases[i]} />)
   t.matchSnapshot(r.lastFrame(), JSON.stringify(cases[i]))
 }
+
 r.unmount()
