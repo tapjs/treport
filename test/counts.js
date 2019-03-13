@@ -1,6 +1,4 @@
 const t = require('tap')
-// tell chalk to be colorful
-process.argv.push('--color')
 const counts = require('../lib/counts.js')
 
 const cases = [

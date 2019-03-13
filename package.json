@@ -24,6 +24,9 @@
     "test": "tap --100",
     "snap": "tap --snapshot --no-coverage"
   },
+  "tap": {
+    "test-arg": ["--color"]
+  },
   "nyc": {
     "include": [
       "index.js",
