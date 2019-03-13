@@ -17,7 +17,7 @@
   "devDependencies": {
     "events-to-array": "^1.1.2",
     "ink-testing-library": "^1.0.0",
-    "tap": "^13.0.0-rc.1"
+    "tap": "^13.0.0-rc.2"
   },
   "license": "ISC",
   "scripts": {
@@ -25,7 +25,9 @@
     "snap": "tap --snapshot --no-coverage"
   },
   "tap": {
-    "test-arg": ["--color"]
+    "test-arg": [
+      "--color"
+    ]
   },
   "nyc": {
     "all": true,
