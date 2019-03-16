@@ -5,13 +5,13 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`test-point.jsx TAP > this is fine 1`] = `
+exports[`test/test-point.jsx TAP > this is fine 1`] = `
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m some name
 [32m[1m   [22m[39m[39mthis is fine[39m
 
 `
 
-exports[`test-point.jsx TAP > not so fine 1`] = `
+exports[`test/test-point.jsx TAP > not so fine 1`] = `
 [1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mnot so fine[39m
 
@@ -28,7 +28,7 @@ exports[`test-point.jsx TAP > not so fine 1`] = `
 
 `
 
-exports[`test-point.jsx TAP > no match 1`] = `
+exports[`test/test-point.jsx TAP > no match 1`] = `
 [1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mno match[39m
 
@@ -52,19 +52,19 @@ exports[`test-point.jsx TAP > no match 1`] = `
 
 `
 
-exports[`test-point.jsx TAP > test without fn is a todo 1`] = `
+exports[`test/test-point.jsx TAP > test without fn is a todo 1`] = `
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m some name
 [35m[1m ☐ [22m[39m[39mtest without fn is a todo[39m
 
 `
 
-exports[`test-point.jsx TAP > todo test with named reason 1`] = `
+exports[`test/test-point.jsx TAP > todo test with named reason 1`] = `
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m some name
 [35m[1m ☐ [22m[39m[39mtodo test with named reason[39m[39m > [35mi have my reasons[39m[39m
 
 `
 
-exports[`test-point.jsx TAP > should be equal 1`] = `
+exports[`test/test-point.jsx TAP > should be equal 1`] = `
 [1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mshould be equal[39m
 
@@ -86,7 +86,7 @@ exports[`test-point.jsx TAP > should be equal 1`] = `
 
 `
 
-exports[`test-point.jsx TAP > should be equivalent 1`] = `
+exports[`test/test-point.jsx TAP > should be equivalent 1`] = `
 [1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mshould be equivalent[39m
 
@@ -110,7 +110,7 @@ exports[`test-point.jsx TAP > should be equivalent 1`] = `
 
 `
 
-exports[`test-point.jsx TAP > magma 1`] = `
+exports[`test/test-point.jsx TAP > magma 1`] = `
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m some name
 [36m[1m ~ [22m[39m[39mmagma[39m[39m > [36mhop over the lava[39m[39m
 

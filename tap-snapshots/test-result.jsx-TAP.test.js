@@ -5,15 +5,15 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`result.jsx TAP > raw string 1`] = `
+exports[`test/result.jsx TAP > raw string 1`] = `
 hello
 `
 
-exports[`result.jsx TAP > result 1`] = `
+exports[`test/result.jsx TAP > result 1`] = `
 [32m[1m   [22m[39m[39mhi[39m
 
 `
 
-exports[`result.jsx TAP > test 1`] = `
+exports[`test/result.jsx TAP > test 1`] = `
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m undefined[37m[1m 1[22m[32m OK [37m[39m[2m ...[22m
 `
