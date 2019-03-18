@@ -33,6 +33,10 @@
       "--color"
     ]
   },
+  "files": [
+    "index.js",
+    "lib"
+  ],
   "nyc": {
     "all": true,
     "include": [
