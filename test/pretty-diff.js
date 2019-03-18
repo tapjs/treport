@@ -20,3 +20,7 @@ t.matchSnapshot(pretty(diff), 'a pretty diff at 2 columns')
 
 process.stdout.columns = 0
 t.matchSnapshot(pretty(diff), 'a pretty diff at 0 columns')
+
+process.stdout.columns = 40
+require('chalk').supportsColor.level = 1
+t.matchSnapshot(pretty(diff), 'a pretty diff without ansi support')

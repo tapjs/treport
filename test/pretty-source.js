@@ -3,6 +3,8 @@ const pretty = require('../lib/pretty-source.js')
 const t = require('tap')
 const fs = require('fs')
 const path = require('path')
+const c = require('chalk')
+c.supportsColor.level = 3
 
 t.test('basic null responses', t => {
   t.equal(pretty(), null, 'no diag')
@@ -51,6 +53,31 @@ const line9 = 'line 9'
       file,
       line: 10,
     }
-  }), 'last line')
+  }), 'last line, no caret')
+  t.matchSnapshot(pretty({
+    source:'this does not matter',
+    at: {
+      file,
+      column: 5,
+      line: 10,
+    }
+  }), 'last line, with caret')
+  t.matchSnapshot(pretty({
+    source:'this does not matter',
+    at: {
+      file,
+      line: 2,
+      column: 420,
+    }
+  }), 'caret way too far off the line')
+  c.supportsColor.level = 1
+  t.matchSnapshot(pretty({
+    source:'this does not matter',
+    at: {
+      file,
+      line: 4,
+      column: 5,
+    }
+  }), 'slightly less colorful')
   t.end()
 })
