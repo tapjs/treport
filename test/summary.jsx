@@ -157,6 +157,7 @@ r.rerender(<Summary
   bailout={false} />)
 t.matchSnapshot(r.lastFrame(), 'parent ended')
 
+fail.results.bailout = 'failer gonna fail'
 r.rerender(<Summary
   results={tt.results}
   counts={tt.counts}
@@ -168,5 +169,5 @@ r.rerender(<Summary
     tests,
   }}
   time={123}
-  bailout={true} />)
+  bailout="failer gonna fail" />)
 t.matchSnapshot(r.lastFrame(), 'parent ended but it was a bailout')

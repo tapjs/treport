@@ -17,7 +17,8 @@
   "devDependencies": {
     "events-to-array": "^1.1.2",
     "ink-testing-library": "^1.0.0",
-    "tap": "^13.0.0-rc.5"
+    "minipass": "^2.3.5",
+    "tap": "^13.0.0-rc.9"
   },
   "license": "ISC",
   "scripts": {

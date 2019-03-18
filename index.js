@@ -1,1 +1,1 @@
-module.exports = require('import-jsx')('./lib/report.js')
+module.exports = require('import-jsx')('./lib/index.js')

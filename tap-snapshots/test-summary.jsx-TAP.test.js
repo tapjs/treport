@@ -72,6 +72,8 @@ exports[`test/summary.jsx TAP > parent ended but it was a bailout 1`] = `
 [1m[41m[38;2;0;0;0m FAIL [39m[49m[22m failer[37m[31m 1 failed[37m of[1m 1[22m [39m[2m ...[22m
 [31m[1m ! [22m[39m[39mfailer gonna fail[39m
 
+[1m[31mBAILOUT [39m[22mfailer gonna fail
+
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m1 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m4 of 4 completed[22m
 [1mAsserts:[22m  [39m[31m1 failed[39m[22m[39m, [22m[39m[32m1 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 4[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m123ms[2m[22m[22m
