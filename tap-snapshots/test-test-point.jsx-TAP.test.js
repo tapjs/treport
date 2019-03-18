@@ -12,7 +12,7 @@ exports[`test/test-point.jsx TAP > this is fine 1`] = `
 `
 
 exports[`test/test-point.jsx TAP > not so fine 1`] = `
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mnot so fine[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  test/test-point.jsx[39m                                                        [49m
@@ -29,7 +29,7 @@ exports[`test/test-point.jsx TAP > not so fine 1`] = `
 `
 
 exports[`test/test-point.jsx TAP > no match 1`] = `
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mno match[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  test/test-point.jsx[39m                                                        [49m
@@ -65,7 +65,7 @@ exports[`test/test-point.jsx TAP > todo test with named reason 1`] = `
 `
 
 exports[`test/test-point.jsx TAP > should be equal 1`] = `
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mshould be equal[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  test/test-point.jsx[39m                                                        [49m
@@ -87,7 +87,7 @@ exports[`test/test-point.jsx TAP > should be equal 1`] = `
 `
 
 exports[`test/test-point.jsx TAP > should be equivalent 1`] = `
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m some name
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
 [31m[1m ! [22m[39m[39mshould be equivalent[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  test/test-point.jsx[39m                                                        [49m

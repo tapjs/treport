@@ -53,7 +53,7 @@ exports[`test/summary.jsx TAP > parent ended 1`] = `
 [48;2;255;255;255m[38;2;51;51;51m[1m  🌈 SUMMARY RESULTS 🌈  [22m[39m[49m
 [48;2;255;255;255m                         [49m
 
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m failer[37m[31m 1 failed[37m of[1m 1[22m [39m[2m ...[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m failer[37m[31m 1 failed[37m of[1m 1[22m [39m[2m ...[22m
 [31m[1m ! [22m[39m[39mfailer gonna fail[39m
 
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m skip > [36mto move by hopping on alternate feet[39m[37m [39m[2m ...[22m
@@ -69,7 +69,7 @@ exports[`test/summary.jsx TAP > parent ended but it was a bailout 1`] = `
 [48;2;255;255;255m[38;2;51;51;51m[1m  🌈 SUMMARY RESULTS 🌈  [22m[39m[49m
 [48;2;255;255;255m                         [49m
 
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m failer[37m[31m 1 failed[37m of[1m 1[22m [39m[2m ...[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m failer[37m[31m 1 failed[37m of[1m 1[22m [39m[2m ...[22m
 [31m[1m ! [22m[39m[39mfailer gonna fail[39m
 
 [1m[31mBAILOUT [39m[22mfailer gonna fail

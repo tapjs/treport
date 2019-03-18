@@ -10,7 +10,7 @@ exports[`test/status-mark.jsx TAP results > pass 1`] = `
 `
 
 exports[`test/status-mark.jsx TAP results > fail 1`] = `
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m
 `
 
 exports[`test/status-mark.jsx TAP results > skip 1`] = `
@@ -30,7 +30,7 @@ exports[`test/status-mark.jsx TAP tests > pending 1`] = `
 `
 
 exports[`test/status-mark.jsx TAP tests > fail 1`] = `
-[1m[41m[38;2;0;0;0m FAIL [39m[49m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m
 `
 
 exports[`test/status-mark.jsx TAP tests > skip 1`] = `
