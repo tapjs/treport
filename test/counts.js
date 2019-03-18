@@ -1,3 +1,4 @@
+require('./term-setup.js')
 const t = require('tap')
 const counts = require('../lib/counts.js')
 

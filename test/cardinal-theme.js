@@ -1,6 +1,5 @@
+require('./term-setup.js')
 const t = require('tap')
-// tell chalk to be colorful
-process.argv.push('--color')
 const theme = require('../lib/cardinal-theme.js')
 t.match(theme, { Boolean: { _default: Function }})
 

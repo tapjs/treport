@@ -1,3 +1,4 @@
+require('./term-setup.js')
 const React = require('react')
 const t = require('tap')
 const importJSX = require('import-jsx')

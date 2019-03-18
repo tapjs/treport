@@ -1,3 +1,4 @@
+require('./term-setup.js')
 const importJSX = require('import-jsx')
 const React = require('react')
 const Report = importJSX('../lib/report.js')

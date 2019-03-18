@@ -1,3 +1,4 @@
+require('./term-setup.js')
 const t = require('tap')
 const pretty = require('../lib/pretty-diff.js')
 

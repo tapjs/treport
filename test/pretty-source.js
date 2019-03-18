@@ -1,3 +1,4 @@
+require('./term-setup.js')
 const pretty = require('../lib/pretty-source.js')
 const t = require('tap')
 const fs = require('fs')
