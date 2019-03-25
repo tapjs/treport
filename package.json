@@ -29,10 +29,7 @@
     "postpublish": "git push origin --all; git push origin --tags"
   },
   "tap": {
-    "check-coverage": true,
-    "test-arg": [
-      "--color"
-    ]
+    "check-coverage": true
   },
   "files": [
     "index.js",
