@@ -29,19 +29,20 @@
     "postpublish": "git push origin --all; git push origin --tags"
   },
   "tap": {
+    "check-coverage": true,
     "test-arg": [
       "--color"
     ]
   },
   "files": [
     "index.js",
-    "lib"
+    "lib/**/!(*.test).js"
   ],
   "nyc": {
     "all": true,
     "include": [
       "index.js",
-      "lib/*.js*"
+      "lib/**/!(*.test).js"
     ]
   }
 }
