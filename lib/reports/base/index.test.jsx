@@ -1,4 +1,3 @@
-require('../../term-setup.test.js')
 const importJSX = require('import-jsx')
 const React = require('react')
 const Report = importJSX('./index.js')

@@ -1,4 +1,3 @@
-require('../../term-setup.test.js')
 const React = require('react')
 const t = require('tap')
 const importJSX = require('import-jsx')
