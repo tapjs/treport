@@ -1,7 +1,7 @@
 {
   "name": "treport",
   "description": "Reporters for node-tap",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",
   "dependencies": {
     "cardinal": "^2.1.1",
