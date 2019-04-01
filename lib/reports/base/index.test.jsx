@@ -136,22 +136,71 @@ t.test('bailout run', async t => {
 
   tests.forEach(t => t.results || t.pass('this is fine'))
   // let the counter bouncer bounce
-  await new Promise(r => setTimeout(r, 100))
+  await new Promise(r => setTimeout(r, 200))
 
   // bump the time by a second
   tick()
   t.matchSnapshot(r.lastFrame())
   tests.forEach(t => t.results || t.pass('this is fine'))
-  await new Promise(r => setTimeout(r, 100))
+  await new Promise(r => setTimeout(r, 200))
   tests[2].end()
   tests[3].end()
   t.matchSnapshot(r.lastFrame())
 
   tests[0].end()
   tests.forEach(t => t.results || t.pass('this is fine'))
-  await new Promise(r => setTimeout(r, 100))
+  await new Promise(r => setTimeout(r, 200))
 
   tests[1].fail('not fine')
+  tests[4].fail('ton enif')
+  tests[4].end()
+
+  // subsequent bailout does nothing
+  tap.emit('bailout', 'this should not be shown')
+
+  t.matchSnapshot(r.lastFrame())
+
+  t.end()
+  cleanup()
+})
+
+t.test('weird root bailout', async t => {
+  const tap = new Test({ jobs: 4, name: 'TAP bailer' })
+
+  const r = render(<Report tap={tap} />)
+  t.matchSnapshot(r.lastFrame())
+
+  const tests = []
+  tap.test('zro', { bail: false }, t => tests.push(t))
+  tap.test('one', { bail: false }, t => tests.push(t))
+  tap.test('two', { bail: false }, t => tests.push(t))
+  tap.test('tre', { bail: false }, t => tests.push(t))
+  tap.test('for', { bail: false }, t => tests.push(t))
+  tap.test('fiv', { bail: false }, t => tests.push(t))
+  tap.test('six', { bail: false }, t => tests.push(t))
+  tap.test('svn', { bail: false }, t => tests.push(t))
+  tap.test('eit', { bail: false }, t => tests.push(t))
+  tap.test('nin', { bail: false }, t => tests.push(t))
+
+  tests.forEach(t => t.results || t.pass('this is fine'))
+  // let the counter bouncer bounce
+  await new Promise(r => setTimeout(r, 200))
+
+  // bump the time by a second
+  tick()
+  t.matchSnapshot(r.lastFrame())
+  tests.forEach(t => t.results || t.pass('this is fine'))
+  await new Promise(r => setTimeout(r, 200))
+  tests[2].end()
+  tests[3].end()
+  t.matchSnapshot(r.lastFrame())
+
+  tests[0].end()
+  tests.forEach(t => t.results || t.pass('this is fine'))
+  await new Promise(r => setTimeout(r, 200))
+
+  tests[1].fail('not fine')
+  tap.bailout('not fine')
   tests[4].fail('ton enif')
   tests[4].end()
 
@@ -183,7 +232,7 @@ t.test('one at a time', async t => {
     // bump the time by a second
     tick()
     tests.forEach(t => t.results || t.pass('pass '+i))
-    await new Promise(r => setTimeout(r, 100))
+    await new Promise(r => setTimeout(r, 200))
     t.matchSnapshot(r.lastFrame())
     // bump the time by a second
     tick()

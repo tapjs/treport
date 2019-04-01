@@ -5,24 +5,10 @@ const t = require('tap')
 const {Test} = t
 const {render} = require('ink-testing-library')
 
+// should always get results, but also, doesn't show them by default
 const r = render(<Summary
   results={null}
-  counts={{
-    pass: 0,
-    total: 0,
-    fail: 0,
-    skip: 0,
-    todo: 0,
-  }}
-  lists={{
-    pass: [],
-    fail: [],
-    skip: [],
-    todo: [],
-    tests: [],
-  }}
-  time={123}
-  bailout={false} />)
+  tests={[]} />)
 
 t.matchSnapshot(r.lastFrame(), 'initial state')
 
@@ -61,16 +47,7 @@ const tests = [fail, pass, skip, todo]
 
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [],
-    fail: [],
-    skip: [],
-    todo: [],
-    tests,
-  }}
-  time={123}
-  bailout={false} />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'tests added')
 
 fail.fail('failer gonna fail')
@@ -78,16 +55,7 @@ fail.end()
 
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [],
-    fail: [fail],
-    skip: [],
-    todo: [],
-    tests,
-  }}
-  time={123}
-  bailout={false} />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'failer failed')
 
 todo.options.todo = 'to do or not to do that is the question'
@@ -95,16 +63,7 @@ todo.end()
 
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [],
-    fail: [fail],
-    skip: [],
-    todo: [todo],
-    tests,
-  }}
-  time={123}
-  bailout={false} />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'todo todoed')
 
 skip.options.skip = 'to move by hopping on alternate feet'
@@ -112,16 +71,7 @@ skip.end()
 
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [],
-    fail: [fail],
-    skip: [skip],
-    todo: [todo],
-    tests,
-  }}
-  time={123}
-  bailout={false} />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'skip skipped')
 
 pass.pass('this is fine')
@@ -129,45 +79,18 @@ pass.end()
 
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [pass],
-    fail: [fail],
-    skip: [skip],
-    todo: [todo],
-    tests,
-  }}
-  time={123}
-  bailout={false} />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'pass past')
 
 tt.end()
 
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [pass],
-    fail: [fail],
-    skip: [skip],
-    todo: [todo],
-    tests,
-  }}
-  time={123}
-  bailout={false} />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'parent ended')
 
 fail.results.bailout = 'failer gonna fail'
 r.rerender(<Summary
   results={tt.results}
-  counts={tt.counts}
-  lists={{
-    pass: [pass],
-    fail: [fail],
-    skip: [skip],
-    todo: [todo],
-    tests,
-  }}
-  time={123}
-  bailout="failer gonna fail" />)
+  tests={tests} />)
 t.matchSnapshot(r.lastFrame(), 'parent ended but it was a bailout')
