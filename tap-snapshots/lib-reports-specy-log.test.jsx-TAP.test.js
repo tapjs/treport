@@ -5,10 +5,7 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`types.test.js TAP > undefined 1`] = `
-Array [
-  "base",
-  "specy",
-  "terse",
-]
+exports[`lib/reports/specy/log.test.jsx TAP > undefined 1`] = `
+hello
+
 `

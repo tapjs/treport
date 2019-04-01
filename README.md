@@ -18,6 +18,11 @@ A lot like Base, but says a lot less.  No timer, no list of tests concurrently
 running, nothing printed on test passing.  Just the failures and the terse
 summary.
 
+### Specy
+
+A `spec` style reporter with the current running jobs and Terse summary and
+footer.
+
 ## Extending
 
 You can extend this by creating a module whose main `module.exports` is a
