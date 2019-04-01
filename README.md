@@ -5,6 +5,19 @@ Reporters for node-tap
 An [ink](http://npm.im/ink)-based reporter for use with
 [tap](http://npm.im/tap) version 13 and higher.
 
+## Built-in Report Types
+
+### Base
+
+The default, and the class to extend to create new reporters.  Does all the
+things, handles all the edge cases, and ends with a pleasant surprise.
+
+### Terse
+
+A lot like Base, but says a lot less.  No timer, no list of tests concurrently
+running, nothing printed on test passing.  Just the failures and the terse
+summary.
+
 ## Extending
 
 You can extend this by creating a module whose main `module.exports` is a
