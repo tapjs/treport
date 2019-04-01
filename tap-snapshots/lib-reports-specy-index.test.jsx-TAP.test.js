@@ -262,9 +262,13 @@ TAP
 
   one
     [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
     [32m✓[39m this is fine
 
   two
+    [32m✓[39m give this two a pass
+    [32m✓[39m give this two a pass
     [32m✓[39m give this two a pass
     [32m✓[39m this is fine
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
@@ -310,9 +314,13 @@ TAP
 
   one
     [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
     [32m✓[39m this is fine
 
   two
+    [32m✓[39m give this two a pass
+    [32m✓[39m give this two a pass
     [32m✓[39m give this two a pass
     [32m✓[39m this is fine
 [1m[2mfor 2> [1m[22mthis is some raw 2> stuff
@@ -347,9 +355,13 @@ TAP
 
   one
     [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
     [32m✓[39m this is fine
 
   two
+    [32m✓[39m give this two a pass
+    [32m✓[39m give this two a pass
     [32m✓[39m give this two a pass
     [32m✓[39m this is fine
 [1m[2mfor 2> [1m[22mthis is some raw 2> stuff
@@ -397,9 +409,13 @@ TAP
 
   one
     [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
     [32m✓[39m this is fine
 
   two
+    [32m✓[39m give this two a pass
+    [32m✓[39m give this two a pass
     [32m✓[39m give this two a pass
     [32m✓[39m this is fine
 [1m[2mfor 2> [1m[22mthis is some raw 2> stuff
@@ -435,15 +451,21 @@ TAP
 
   one
     [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
     [32m✓[39m this is fine
 
   two
+    [32m✓[39m give this two a pass
+    [32m✓[39m give this two a pass
     [32m✓[39m give this two a pass
     [32m✓[39m this is fine
 [1m[2mfor 2> [1m[22mthis is some raw 2> stuff
 [1m[2mfiv 1> [1m[22mthis is definitely not tap
 
   tre
+    [32m✓[39m give this tre a pass
+    [32m✓[39m give this tre a pass
     [32m✓[39m give this tre a pass
     [32m✓[39m this is fine
     [31m✖[39m do this later
@@ -543,15 +565,21 @@ TAP
 
   one
     [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
+    [32m✓[39m give this one a pass
     [32m✓[39m this is fine
 
   two
+    [32m✓[39m give this two a pass
+    [32m✓[39m give this two a pass
     [32m✓[39m give this two a pass
     [32m✓[39m this is fine
 [1m[2mfor 2> [1m[22mthis is some raw 2> stuff
 [1m[2mfiv 1> [1m[22mthis is definitely not tap
 
   tre
+    [32m✓[39m give this tre a pass
+    [32m✓[39m give this tre a pass
     [32m✓[39m give this tre a pass
     [32m✓[39m this is fine
     [31m✖[39m do this later
@@ -609,6 +637,7 @@ TAP
 
   nin
     [32m✓[39m this is fine
+    [32m✓[39m this is fine
 
   ten
     [32m✓[39m this is fine
@@ -661,8 +690,11 @@ exports[`lib/reports/specy/index.test.jsx TAP bailout run > undefined 4`] = `
 TAP bailer
   zro
     [32m✓[39m this is fine
+    [32m✓[39m this is fine
 
   one
+    [32m✓[39m this is fine
+    [32m✓[39m this is fine
     [32m✓[39m this is fine
     [31m✖[39m not fine
     at:
@@ -724,6 +756,7 @@ TAP bailer
 exports[`lib/reports/specy/index.test.jsx TAP weird root bailout > undefined 4`] = `
 TAP bailer
   zro
+    [32m✓[39m this is fine
     [32m✓[39m this is fine
 [1mSuites:[22m   [39m[32m3 passed[39m[22m[39m, [22m[39m3 of 10 completed[22m
 [1mAsserts:[22m  [39m[31m3 failed[39m[22m[39m, [22m[39m[32m10 passed[39m[22m[39m, [22m[39mof 13[22m
