@@ -7,13 +7,13 @@
 'use strict'
 exports[`lib/reports/base/test-point.test.jsx TAP > this is fine 1`] = `
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m some name
-[32m[1m   [22m[39m[39mthis is fine[39m
+[32m[1m ✓ [22m[39m[39mthis is fine[39m
 
 `
 
 exports[`lib/reports/base/test-point.test.jsx TAP > not so fine 1`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
-[31m[1m ! [22m[39m[39mnot so fine[39m
+[31m[1m ✖ [22m[39m[39mnot so fine[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/test-point.test.jsx[39m                                       [49m
 [48;2;34;34;34m [38;2;119;119;119m 17 | [39m                                                                      [49m
@@ -30,7 +30,7 @@ exports[`lib/reports/base/test-point.test.jsx TAP > not so fine 1`] = `
 
 exports[`lib/reports/base/test-point.test.jsx TAP > no match 1`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
-[31m[1m ! [22m[39m[39mno match[39m
+[31m[1m ✖ [22m[39m[39mno match[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/test-point.test.jsx[39m                                       [49m
 [48;2;34;34;34m [38;2;119;119;119m 18 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'this is fine'[39m[93m)[39m                                             [49m
@@ -66,7 +66,7 @@ exports[`lib/reports/base/test-point.test.jsx TAP > todo test with named reason 
 
 exports[`lib/reports/base/test-point.test.jsx TAP > should be equal 1`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
-[31m[1m ! [22m[39m[39mshould be equal[39m
+[31m[1m ✖ [22m[39m[39mshould be equal[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/test-point.test.jsx[39m                                       [49m
 [48;2;34;34;34m [38;2;119;119;119m 21 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mtest[39m[93m([39m[92m'test without fn is a todo'[39m[93m)[39m                                [49m
@@ -88,7 +88,7 @@ exports[`lib/reports/base/test-point.test.jsx TAP > should be equal 1`] = `
 
 exports[`lib/reports/base/test-point.test.jsx TAP > should be equivalent 1`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m some name
-[31m[1m ! [22m[39m[39mshould be equivalent[39m
+[31m[1m ✖ [22m[39m[39mshould be equivalent[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/test-point.test.jsx[39m                                       [49m
 [48;2;34;34;34m [38;2;119;119;119m 22 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mtest[39m[93m([39m[92m'todo test with named reason'[39m[32m,[39m [33m{[39m [38;2;238;238;238mtodo[39m[93m:[39m [92m'i have my reasons'[39m [33m}[39m[93m)[39m[49m

@@ -136,7 +136,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 13
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 14`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -152,7 +152,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 14
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m [39m[1m[38;2;170;170;170m1s[39m[22m
@@ -175,7 +175,7 @@ Array [
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 15`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -191,7 +191,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 15
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m [39m[1m[38;2;170;170;170m1s[39m[22m
@@ -204,7 +204,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 15
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 16`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -220,7 +220,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 16
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
@@ -245,7 +245,7 @@ Array [
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 17`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -261,7 +261,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 17
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
@@ -288,7 +288,7 @@ Array [
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 18`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -304,7 +304,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 18
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
@@ -320,7 +320,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 18
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 19`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -336,7 +336,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 19
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
@@ -366,7 +366,7 @@ Array [
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 20`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -382,7 +382,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 20
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
@@ -403,7 +403,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 20
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 21`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -419,7 +419,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 21
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
@@ -454,7 +454,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 21
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m six[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m svn[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit
-[31m[1m ! [22m[39m[39mfail but will be todo somehow[39m
+[31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                         [49m
 [48;2;34;34;34m [38;2;119;119;119m 100 | [39m  [38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mforEach[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mresults[39m [93m||[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mend[39m[93m([39m[93m)[39m[93m)[39m        [49m
@@ -470,7 +470,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 21
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[31m[1m ! [22m[39m[39mfail but will be todo somehow[39m
+[31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m nin[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m ten[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
@@ -497,7 +497,7 @@ Array [
 
 exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 22`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                                  [49m
 [48;2;34;34;34m [38;2;119;119;119m 41 | [39m  [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mmatchSnapshot[39m[93m([39m[38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mmap[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mname[39m[93m)[39m[32m,[39m [92m'current tests'[39m[93m)[39m  [49m
@@ -513,7 +513,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 22
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
@@ -548,7 +548,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 22
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m six[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m svn[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit
-[31m[1m ! [22m[39m[39mfail but will be todo somehow[39m
+[31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                         [49m
 [48;2;34;34;34m [38;2;119;119;119m 100 | [39m  [38;2;238;238;238mtests[39m[32m.[39m[38;2;238;238;238mforEach[39m[93m([39m[38;2;238;238;238mt[39m [93m=>[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mresults[39m [93m||[39m [38;2;238;238;238mt[39m[32m.[39m[38;2;238;238;238mend[39m[93m([39m[93m)[39m[93m)[39m        [49m
@@ -564,7 +564,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 22
     Object.<anonymous> (lib/reports/base/index.test.jsx:12:3)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[31m[1m ! [22m[39m[39mfail but will be todo somehow[39m
+[31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m ten[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
@@ -574,7 +574,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 22
 [48;2;255;255;255m                         [49m
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[31m[1m ! [22m[39m[39mfail but will be todo somehow[39m
+[31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[37m[36m 1 skip[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
@@ -586,7 +586,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > undefined 22
 [35m[1m ☐ [22m[39m[39mdo this later[39m[39m > [35mat another time[39m[39m
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mthis is a failure[39m
+[31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m7 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m11 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m24 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 29[22m
@@ -626,7 +626,7 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > undefined 4`] = `
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one
-[31m[1m ! [22m[39m[39mnot fine[39m
+[31m[1m ✖ [22m[39m[39mnot fine[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                     [49m
 [48;2;34;34;34m [38;2;119;119;119m 152 | [39m  [38;2;238;238;238mawait[39m [31mnew[39m [38;2;238;238;238mPromise[39m[93m([39m[38;2;238;238;238mr[39m [93m=>[39m [38;2;238;238;238msetTimeout[39m[93m([39m[38;2;238;238;238mr[39m[32m,[39m [36m200[39m[93m)[39m[93m)[39m  [49m
@@ -641,7 +641,7 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > undefined 4`] = `
     Test.t.test (lib/reports/base/index.test.jsx:154:12)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m for
-[31m[1m ! [22m[39m[39mton enif[39m
+[31m[1m ✖ [22m[39m[39mton enif[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m             [49m
 [48;2;34;34;34m [38;2;119;119;119m 153 | [39m                                      [49m
@@ -657,7 +657,7 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > undefined 4`] = `
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m for[37m[31m 1 failed[37m of[1m 2[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[31m[1m ! [22m[39m[39mton enif[39m
+[31m[1m ✖ [22m[39m[39mton enif[39m
 
 [1m[31mBAILOUT [39m[22mton enif
 
@@ -667,7 +667,7 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > undefined 4`] = `
 [48;2;255;255;255m                         [49m
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one[37m[31m 1 failed[37m of[1m 4[22m [39m[1m[38;2;170;170;170m1s[39m[22m
-[31m[1m ! [22m[39m[39mnot fine[39m
+[31m[1m ✖ [22m[39m[39mnot fine[39m
 
 [1m[31mBAILOUT [39m[22mnot fine
 
@@ -709,7 +709,7 @@ exports[`lib/reports/base/index.test.jsx TAP weird root bailout > undefined 4`] 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one
-[31m[1m ! [22m[39m[39mnot fine[39m
+[31m[1m ✖ [22m[39m[39mnot fine[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                     [49m
 [48;2;34;34;34m [38;2;119;119;119m 200 | [39m  [38;2;238;238;238mawait[39m [31mnew[39m [38;2;238;238;238mPromise[39m[93m([39m[38;2;238;238;238mr[39m [93m=>[39m [38;2;238;238;238msetTimeout[39m[93m([39m[38;2;238;238;238mr[39m[32m,[39m [36m200[39m[93m)[39m[93m)[39m  [49m
@@ -724,7 +724,7 @@ exports[`lib/reports/base/index.test.jsx TAP weird root bailout > undefined 4`] 
     Test.t.test (lib/reports/base/index.test.jsx:202:12)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one
-[31m[1m ! [22m[39m[39mtest unfinished[39m
+[31m[1m ✖ [22m[39m[39mtest unfinished[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m                               [49m
 [48;2;34;34;34m [38;2;119;119;119m 173 | [39m  [36mconst[39m [38;2;238;238;238mtests[39m [93m=[39m [33m[[39m[33m][39m                                      [49m
@@ -740,7 +740,7 @@ exports[`lib/reports/base/index.test.jsx TAP weird root bailout > undefined 4`] 
   test: one
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m for
-[31m[1m ! [22m[39m[39mton enif[39m
+[31m[1m ✖ [22m[39m[39mton enif[39m
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/base/index.test.jsx[39m             [49m
 [48;2;34;34;34m [38;2;119;119;119m 202 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m1[39m[33m][39m[32m.[39m[38;2;238;238;238mfail[39m[93m([39m[92m'not fine'[39m[93m)[39m           [49m

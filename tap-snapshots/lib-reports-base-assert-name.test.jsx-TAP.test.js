@@ -6,11 +6,11 @@
  */
 'use strict'
 exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":true,"skip":false,"todo":false,"name":"name"} 1`] = `
-[32m[1m   [22m[39m[39mname[39m
+[32m[1m ✓ [22m[39m[39mname[39m
 `
 
 exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":true,"skip":false,"todo":false} 1`] = `
-[32m[1m   [22m[39m[39m(unnamed test)[39m
+[32m[1m ✓ [22m[39m[39m(unnamed test)[39m
 `
 
 exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":true,"skip":false,"todo":true,"name":"name"} 1`] = `
@@ -78,11 +78,11 @@ exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":true,"skip":"skip rea
 `
 
 exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":false,"skip":false,"todo":false,"name":"name"} 1`] = `
-[31m[1m ! [22m[39m[39mname[39m
+[31m[1m ✖ [22m[39m[39mname[39m
 `
 
 exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":false,"skip":false,"todo":false} 1`] = `
-[31m[1m ! [22m[39m[39m(unnamed test)[39m
+[31m[1m ✖ [22m[39m[39m(unnamed test)[39m
 `
 
 exports[`lib/reports/base/assert-name.test.jsx TAP > {"ok":false,"skip":false,"todo":true,"name":"name"} 1`] = `
