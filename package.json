@@ -7,7 +7,7 @@
     "cardinal": "^2.1.1",
     "chalk": "^2.4.2",
     "import-jsx": "^2.0.0",
-    "ink": "github:isaacs/ink",
+    "ink": "^2.1.1",
     "ms": "^2.1.1",
     "react": "^16.8.6",
     "string-length": "^2.0.0",
