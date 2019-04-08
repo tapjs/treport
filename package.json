@@ -11,14 +11,14 @@
     "ms": "^2.1.1",
     "react": "^16.8.6",
     "string-length": "^2.0.0",
-    "tap-parser": "^9.3.1",
+    "tap-parser": "^9.3.2",
     "unicode-length": "^2.0.1"
   },
   "devDependencies": {
     "events-to-array": "^1.1.2",
     "ink-testing-library": "^1.0.1",
     "minipass": "^2.3.5",
-    "tap": "^13.0.0-rc.20"
+    "tap": "^13.0.0-rc.23"
   },
   "license": "ISC",
   "scripts": {
