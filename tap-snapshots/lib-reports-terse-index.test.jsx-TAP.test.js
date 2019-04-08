@@ -316,6 +316,9 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > undefined 2
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m TAP
+[36m[1m ~ [22m[39m[39mfor[39m[39m > [36mskip this whole thing for now[39m[39m
+
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
@@ -332,8 +335,11 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > undefined 2
     Test.t.test (lib/reports/terse/index.test.jsx:102:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:12:3)
 
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
+[35m[1m ☐ [22m[39m[39meit[39m
+
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m6 passed[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m9 of 11 completed[22m
-[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m21 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 26[22m
+[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m21 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m2 skip[39m[22m[39m, [22m[39mof 27[22m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > current tests 6`] = `
@@ -389,6 +395,9 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > undefined 2
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m TAP
+[36m[1m ~ [22m[39m[39mfor[39m[39m > [36mskip this whole thing for now[39m[39m
+
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
@@ -404,6 +413,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > undefined 2
   stack: |
     Test.t.test (lib/reports/terse/index.test.jsx:102:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:12:3)
+
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
+[35m[1m ☐ [22m[39m[39meit[39m
+
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
+[35m[1m ☐ [22m[39m[39mnin[39m
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
@@ -421,7 +436,7 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > undefined 2
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m7 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m11 of 11 completed[22m
-[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m24 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 29[22m
+[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m24 passed[39m[22m[39m, [22m[39m[35m4 todo[39m[22m[39m, [22m[39m[36m2 skip[39m[22m[39m, [22m[39mof 32[22m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP bailout run > undefined 1`] = `

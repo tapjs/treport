@@ -482,7 +482,7 @@ eit
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m nin[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m ten[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m6 passed[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m9 of 11 completed[22m
-[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m21 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 26[22m
+[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m21 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m2 skip[39m[22m[39m, [22m[39mof 27[22m
 `
 
 exports[`lib/reports/specy/index.test.jsx TAP mostly good test run > current tests 6`] = `
@@ -611,7 +611,7 @@ ten
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m7 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m11 of 11 completed[22m
-[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m24 passed[39m[22m[39m, [22m[39m[35m2 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 29[22m
+[1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m24 passed[39m[22m[39m, [22m[39m[35m4 todo[39m[22m[39m, [22m[39m[36m2 skip[39m[22m[39m, [22m[39mof 32[22m
 `
 
 exports[`lib/reports/specy/index.test.jsx TAP bailout run > undefined 1`] = `

@@ -14,6 +14,12 @@ t.test('mostly good test run', async t => {
   const r = render(<Report tap={tap} />)
   t.matchSnapshot(r.lastFrame())
 
+  // some unusual things
+  tap.fail('failure')
+  tap.fail('do later', { todo: true })
+  tap.pass('dont bother', { skip: 'it passes, its FINE' })
+  tap.pass('this is fine')
+
   const tests = []
   tap.test('zro', t => tests.push(t))
   t.matchSnapshot(r.lastFrame())
