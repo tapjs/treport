@@ -18,12 +18,12 @@
     "events-to-array": "^1.1.2",
     "ink-testing-library": "^1.0.1",
     "minipass": "^2.3.5",
-    "tap": "^13.0.0-rc.23"
+    "tap": "^14.1.6"
   },
   "license": "ISC",
   "scripts": {
     "test": "tap",
-    "snap": "tap --no-coverage",
+    "snap": "tap",
     "preversion": "npm test",
     "postversion": "npm publish",
     "postpublish": "git push origin --all; git push origin --tags"
@@ -36,7 +36,8 @@
       "TERM_PROGRAM_VERSION=3.2.7",
       "COLORTERM=truecolor",
       "FORCE_COLOR=1"
-    ]
+    ],
+    "coverage-map": "map.js"
   },
   "files": [
     "index.js",
