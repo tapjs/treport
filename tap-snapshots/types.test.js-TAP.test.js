@@ -5,7 +5,7 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`types.test.js TAP > undefined 1`] = `
+exports[`types.test.js TAP > must match snapshot 1`] = `
 Array [
   "base",
   "specy",

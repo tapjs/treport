@@ -5,6 +5,18 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
+exports[`lib/reports/base/test.test.jsx TAP > bailout 1`] = `
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m bailout[37m [39m[1m[38;2;170;170;170m123ms[39m[22m
+
+[1m[31mBAILOUT [39m[22mtrue
+`
+
+exports[`lib/reports/base/test.test.jsx TAP > bailout reason 1`] = `
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m bailout reason[37m [39m[1m[38;2;170;170;170m123ms[39m[22m
+
+[1m[31mBAILOUT [39m[22mreason
+`
+
 exports[`lib/reports/base/test.test.jsx TAP > basic 1`] = `
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m basic[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m123ms[39m[22m
 `
@@ -54,16 +66,4 @@ exports[`lib/reports/base/test.test.jsx TAP > weird fail 1`] = `
   exitCode: 99
   signal: grinning octupus
 
-`
-
-exports[`lib/reports/base/test.test.jsx TAP > bailout 1`] = `
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m bailout[37m [39m[1m[38;2;170;170;170m123ms[39m[22m
-
-[1m[31mBAILOUT [39m[22mtrue
-`
-
-exports[`lib/reports/base/test.test.jsx TAP > bailout reason 1`] = `
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m bailout reason[37m [39m[1m[38;2;170;170;170m123ms[39m[22m
-
-[1m[31mBAILOUT [39m[22mreason
 `

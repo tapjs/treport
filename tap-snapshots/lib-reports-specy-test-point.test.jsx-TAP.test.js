@@ -5,23 +5,8 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`lib/reports/specy/test-point.test.jsx TAP > this is fine 1`] = `
-[32m[1m✓ [22m[39m[39mthis is fine[39m
-`
-
-exports[`lib/reports/specy/test-point.test.jsx TAP > not so fine 1`] = `
-[31m[1m✖ [22m[39m[39mnot so fine[39m
-
-[48;2;34;34;34m[38;2;170;170;170m  lib/reports/specy/test-point.test.jsx[39m                                      [49m
-[48;2;34;34;34m [38;2;119;119;119m 17 | [39m                                                                      [49m
-[48;2;34;34;34m [38;2;119;119;119m 18 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'this is fine'[39m[93m)[39m                                             [49m
-[48;2;34;34;34m[31m[1m>[22m[39m 19[38;2;119;119;119m | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mfail[39m[93m([39m[92m'not so fine'[39m[93m)[39m                                              [49m
-[48;2;34;34;34m     [38;2;119;119;119m| [39m[31m-----[1m^[22m[39m                                                                [49m
-[48;2;34;34;34m [38;2;119;119;119m 20 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mmatch[39m[93m([39m[33m{[39m[38;2;238;238;238ma[39m[93m:[39m [36m1[39m[33m}[39m[32m,[39m [33m{[39m[38;2;238;238;238ma[39m[93m:[39m [38;2;238;238;238mFunction[39m[33m}[39m[32m,[39m [92m'no match'[39m[93m)[39m                         [49m
-[48;2;34;34;34m [38;2;119;119;119m 21 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mtest[39m[93m([39m[92m'test without fn is a todo'[39m[93m)[39m                                [49m
-[48;2;34;34;34m [38;2;119;119;119m 22 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mtest[39m[93m([39m[92m'todo test with named reason'[39m[32m,[39m [33m{[39m [38;2;238;238;238mtodo[39m[93m:[39m [92m'i have my reasons'[39m [33m}[39m[93m)[39m[49m
-
-stack: "{stack}"
+exports[`lib/reports/specy/test-point.test.jsx TAP > magma 1`] = `
+[36m[1m~ [22m[39m[39mmagma[39m[39m > [36mhop over the lava[39m[39m
 
 `
 
@@ -48,12 +33,20 @@ stack: "{stack}"
 
 `
 
-exports[`lib/reports/specy/test-point.test.jsx TAP > test without fn is a todo 1`] = `
-[35m[1m☐ [22m[39m[39mtest without fn is a todo[39m
-`
+exports[`lib/reports/specy/test-point.test.jsx TAP > not so fine 1`] = `
+[31m[1m✖ [22m[39m[39mnot so fine[39m
 
-exports[`lib/reports/specy/test-point.test.jsx TAP > todo test with named reason 1`] = `
-[35m[1m☐ [22m[39m[39mtodo test with named reason[39m[39m > [35mi have my reasons[39m[39m
+[48;2;34;34;34m[38;2;170;170;170m  lib/reports/specy/test-point.test.jsx[39m                                      [49m
+[48;2;34;34;34m [38;2;119;119;119m 17 | [39m                                                                      [49m
+[48;2;34;34;34m [38;2;119;119;119m 18 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'this is fine'[39m[93m)[39m                                             [49m
+[48;2;34;34;34m[31m[1m>[22m[39m 19[38;2;119;119;119m | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mfail[39m[93m([39m[92m'not so fine'[39m[93m)[39m                                              [49m
+[48;2;34;34;34m     [38;2;119;119;119m| [39m[31m-----[1m^[22m[39m                                                                [49m
+[48;2;34;34;34m [38;2;119;119;119m 20 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mmatch[39m[93m([39m[33m{[39m[38;2;238;238;238ma[39m[93m:[39m [36m1[39m[33m}[39m[32m,[39m [33m{[39m[38;2;238;238;238ma[39m[93m:[39m [38;2;238;238;238mFunction[39m[33m}[39m[32m,[39m [92m'no match'[39m[93m)[39m                         [49m
+[48;2;34;34;34m [38;2;119;119;119m 21 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mtest[39m[93m([39m[92m'test without fn is a todo'[39m[93m)[39m                                [49m
+[48;2;34;34;34m [38;2;119;119;119m 22 | [39m[38;2;238;238;238mtest[39m[32m.[39m[38;2;238;238;238mtest[39m[93m([39m[92m'todo test with named reason'[39m[32m,[39m [33m{[39m [38;2;238;238;238mtodo[39m[93m:[39m [92m'i have my reasons'[39m [33m}[39m[93m)[39m[49m
+
+stack: "{stack}"
+
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > should be equal 1`] = `
@@ -100,7 +93,14 @@ stack: "{stack}"
 
 `
 
-exports[`lib/reports/specy/test-point.test.jsx TAP > magma 1`] = `
-[36m[1m~ [22m[39m[39mmagma[39m[39m > [36mhop over the lava[39m[39m
+exports[`lib/reports/specy/test-point.test.jsx TAP > test without fn is a todo 1`] = `
+[35m[1m☐ [22m[39m[39mtest without fn is a todo[39m
+`
 
+exports[`lib/reports/specy/test-point.test.jsx TAP > this is fine 1`] = `
+[32m[1m✓ [22m[39m[39mthis is fine[39m
+`
+
+exports[`lib/reports/specy/test-point.test.jsx TAP > todo test with named reason 1`] = `
+[35m[1m☐ [22m[39m[39mtodo test with named reason[39m[39m > [35mi have my reasons[39m[39m
 `

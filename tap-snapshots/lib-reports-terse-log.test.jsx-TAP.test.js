@@ -5,7 +5,7 @@
  * Make sure to inspect the output below.  Do not ignore changes!
  */
 'use strict'
-exports[`lib/reports/terse/log.test.jsx TAP > undefined 1`] = `
+exports[`lib/reports/terse/log.test.jsx TAP > must match snapshot 1`] = `
 hello
 
 `
