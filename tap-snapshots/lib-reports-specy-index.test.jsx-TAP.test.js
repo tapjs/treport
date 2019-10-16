@@ -48,7 +48,7 @@ one
   [48;2;34;34;34m [38;2;119;119;119m 156 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m4[39m[33m][39m[32m.[39m[38;2;238;238;238mend[39m[93m([39m[93m)[39m                              [49m
   [48;2;34;34;34m [38;2;119;119;119m 157 | [39m                                              [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:154:12)
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
@@ -193,7 +193,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -224,7 +224,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -255,7 +255,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -286,7 +286,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -329,7 +329,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -373,7 +373,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -423,7 +423,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -468,7 +468,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -542,7 +542,7 @@ eit
   [48;2;34;34;34m [38;2;119;119;119m 104 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m8[39m[33m][39m[32m.[39m[38;2;238;238;238mend[39m[93m([39m[93m)[39m                                  [49m
   [48;2;34;34;34m [38;2;119;119;119m 105 | [39m                                                  [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:102:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -571,7 +571,7 @@ zro
   [48;2;34;34;34m [38;2;119;119;119m 45 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m2[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this two a pass'[39m[93m)[39m                     [49m
   [48;2;34;34;34m [38;2;119;119;119m 46 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m3[39m[33m][39m[32m.[39m[38;2;238;238;238mpass[39m[93m([39m[92m'give this tre a pass'[39m[93m)[39m                     [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:43:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)
@@ -645,7 +645,7 @@ eit
   [48;2;34;34;34m [38;2;119;119;119m 104 | [39m  [38;2;238;238;238mtests[39m[33m[[39m[36m8[39m[33m][39m[32m.[39m[38;2;238;238;238mend[39m[93m([39m[93m)[39m                                  [49m
   [48;2;34;34;34m [38;2;119;119;119m 105 | [39m                                                  [49m
 
-  stack: |
+    stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:102:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:12:3)
       Module.replacementCompile (node_modules/append-transform/index.js:58:13)

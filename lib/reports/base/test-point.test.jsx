@@ -20,6 +20,12 @@ test.fail('not so fine')
 test.match({a: 1}, {a: Function}, 'no match')
 test.test('test without fn is a todo')
 test.test('todo test with named reason', { todo: 'i have my reasons' })
+const er = new Error('this is an error')
+// polyfill until tap publishes the origin-tracking feature
+const cleanYamlObject = require('tap/lib/clean-yaml-object.js')
+const extraFromError = require('tap/lib/extra-from-error.js')
+const extra = { origin: cleanYamlObject(extraFromError(er)) }
+test.error(er, 'to er is to fail this assertion', extra)
 test.equal(1, 2)
 test.same({a: 1}, {b: 2})
 test.fail('magma', { skip: 'hop over the lava' })
