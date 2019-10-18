@@ -1,13 +1,13 @@
+let tickCount = 1
+const tick = () => tickCount += 1
+Date.now = () => 1000 * tickCount
+process.hrtime = (hr) => !hr ? [tickCount, 0] : [tickCount - hr[0], 0]
 const importJSX = require('import-jsx')
 const React = require('react')
 const Report = importJSX('./index.js')
 const t = require('tap')
 const {Test} = t
 const {render, cleanup} = require('ink-testing-library')
-
-let tickCount = 1
-Date.now = () => 1000 * tickCount
-const tick = () => tickCount += 1
 
 t.test('mostly good test run', async t => {
   const tap = new Test({ name: 'TAP', jobs: 4, bail: false })
