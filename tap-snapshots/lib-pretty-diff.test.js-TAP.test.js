@@ -89,8 +89,8 @@ exports[`lib/pretty-diff.test.js TAP > a pretty diff at 40 columns 1`] = `
 exports[`lib/pretty-diff.test.js TAP > a pretty diff without ansi support 1`] = `
   [31m--- expected                    [39m
   [32m+++ actual                      [39m
-  [1m[35m@@ fragment without context @@[39m[22m[0m[1m[2m  [1m[22m[0m
-  [1m[35m@@ -1500,10 +1500,7 @@[39m[22m[0m[1m[2m Object { [1m[22m[0m
+  [1m[35m@@ fragment without context @@[39m[22m[0m[1m[2m  [22m[22m[0m
+  [1m[35m@@ -1500,10 +1500,7 @@[39m[22m[0m[1m[2m Object { [22m[22m[0m
   [0m     499,                       [0m
   [0m   ],                           [0m
   [0m   "500x": Array [              [0m
@@ -102,7 +102,7 @@ exports[`lib/pretty-diff.test.js TAP > a pretty diff without ansi support 1`] = 
   [0m   ],                           [0m
   [0m   "501x": Array [              [0m
   [0m     501,                       [0m
-  [1m[35m@@ -3002,8 +2999,4 @@[39m[22m[0m[1m[2m Object {  [1m[22m[0m
+  [1m[35m@@ -3002,8 +2999,4 @@[39m[22m[0m[1m[2m Object {  [22m[22m[0m
   [0m   "999x": Array [              [0m
   [0m     999,                       [0m
   [0m   ],                           [0m

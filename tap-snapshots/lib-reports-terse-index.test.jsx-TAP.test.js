@@ -53,7 +53,7 @@ exports[`lib/reports/terse/index.test.jsx TAP bailout run > must match snapshot 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:155:12)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one[37m[31m 1 failed[37m of[1m 4[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one[37m[31m 1 failed[39m[37m of[1m 4[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mnot fine[39m
 
 [1m[31mBAILOUT [39m[22mnot fine
@@ -294,7 +294,7 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m2 passed[39m[22m[39m, [22m[39m3 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m1 failed[39m[22m[39m, [22m[39m[32m11 passed[39m[22m[39m, [22m[39mof 12[22m
 `
@@ -323,7 +323,7 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m2 passed[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m4 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m1 failed[39m[22m[39m, [22m[39m[32m13 passed[39m[22m[39m, [22m[39mof 14[22m
 `
@@ -357,8 +357,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[2mfiv 1> [1m[22mthis is definitely not tap
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[2mfiv 1> [22m[22mthis is definitely not tap
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m fiv
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
@@ -390,8 +390,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[2mfiv 1> [1m[22mthis is definitely not tap
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[2mfiv 1> [22m[22mthis is definitely not tap
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m fiv
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
@@ -467,8 +467,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[2mfiv 1> [1m[22mthis is definitely not tap
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[2mfiv 1> [22m[22mthis is definitely not tap
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m fiv
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
@@ -519,19 +519,19 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [22m[39m[39mnin[39m
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[37m[36m 1 skip[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[39m[37m[36m 1 skip[39m[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
-[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[39m[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
 [35m[1m ☐ [22m[39m[39mdo this later[39m[39m > [35mat another time[39m[39m
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m7 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m11 of 11 completed[22m

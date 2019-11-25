@@ -22,21 +22,21 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > must match snapshot 2
 `
 
 exports[`lib/reports/base/index.test.jsx TAP bailout run > must match snapshot 3`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m2 passed[39m[22m[39m, [22m[39m2 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m6 passed[39m[22m[39m, [22m[39mof 6[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m1s[2m[22m[22m
 `
 
 exports[`lib/reports/base/index.test.jsx TAP bailout run > must match snapshot 4`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one
 [31m[1m ✖ [22m[39m[39mnot fine[39m
 
@@ -70,7 +70,7 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > must match snapshot 4
     Test.<anonymous> (lib/reports/base/index.test.jsx:161:12)
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m for[37m[31m 1 failed[37m of[1m 2[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m for[37m[31m 1 failed[39m[37m of[1m 2[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [22m[39m[39mton enif[39m
 
 [1m[31mBAILOUT [39m[22mton enif
@@ -80,7 +80,7 @@ exports[`lib/reports/base/index.test.jsx TAP bailout run > must match snapshot 4
 [48;2;255;255;255m[38;2;51;51;51m[1m  🌈 SUMMARY RESULTS 🌈  [22m[39m[49m
 [48;2;255;255;255m                         [49m
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one[37m[31m 1 failed[37m of[1m 4[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one[37m[31m 1 failed[39m[37m of[1m 4[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mnot fine[39m
 
 [1m[31mBAILOUT [39m[22mnot fine
@@ -421,7 +421,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
@@ -498,7 +498,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
@@ -575,17 +575,17 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m[1m 3[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 3[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m[1m 3[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 3[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m1 passed[39m[22m[39m, [22m[39m2 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m11 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 15[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m2s[2m[22m[22m
@@ -653,18 +653,18 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m six[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 3[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 3[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m2 passed[39m[22m[39m, [22m[39m3 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m12 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 16[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m2s[2m[22m[22m
@@ -732,19 +732,19 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m six[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 3[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 3[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m2 passed[39m[22m[39m, [22m[39m3 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m12 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 16[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m2s[2m[22m[22m
@@ -812,20 +812,20 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m six[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m svn[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m2 passed[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m4 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m14 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 18[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m2s[2m[22m[22m
@@ -938,24 +938,24 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[2mfiv 1> [1m[22mthis is definitely not tap
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[2mfiv 1> [22m[22mthis is definitely not tap
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m fiv
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m[36m 1 skip[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m[36m 1 skip[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m six[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m svn[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m2 passed[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m4 of 11 completed[22m
 [1mAsserts:[22m  [39m[31m2 failed[39m[22m[39m, [22m[39m[32m14 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m2 skip[39m[22m[39m, [22m[39mof 19[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m2s[2m[22m[22m
@@ -1023,17 +1023,17 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[2mfiv 1> [1m[22mthis is definitely not tap
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[2mfiv 1> [22m[22mthis is definitely not tap
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m fiv
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
@@ -1052,18 +1052,18 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[39m[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
 [35m[1m ☐ [22m[39m[39mdo this later[39m[39m > [35mat another time[39m[39m
 
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m TAP
 [36m[1m ~ [22m[39m[39mfor[39m[39m > [36mskip this whole thing for now[39m[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[37m[36m 1 skip[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[39m[37m[36m 1 skip[39m[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m six[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m svn[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m six[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m svn[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
@@ -1087,7 +1087,7 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
@@ -1162,17 +1162,17 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1m[38;2;0;0;0m[42m PASS [49m[39m[22m TAP
 [32m[1m ✓ [22m[39m[39mthis is fine[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[2mfor 2> [1m[22mthis is some raw 2> stuff
-[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[2mfiv 1> [1m[22mthis is definitely not tap
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 4[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[2mfor 2> [22m[22mthis is some raw 2> stuff
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[2mfiv 1> [22m[22mthis is definitely not tap
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m fiv
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
@@ -1191,18 +1191,18 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[39m[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
 [35m[1m ☐ [22m[39m[39mdo this later[39m[39m > [35mat another time[39m[39m
 
 [1m[38;2;255;255;255m[44m SKIP [49m[39m[22m TAP
 [36m[1m ~ [22m[39m[39mfor[39m[39m > [36mskip this whole thing for now[39m[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[37m[36m 1 skip[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[39m[37m[36m 1 skip[39m[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m six[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m svn[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m six[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m svn[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
@@ -1226,35 +1226,35 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
     Module.replacementCompile (node_modules/append-transform/index.js:58:13)
     Object.<anonymous> (node_modules/append-transform/index.js:62:4)
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [22m[39m[39meit[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [22m[39m[39mnin[39m
 
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m ten[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m ten[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
 
 [48;2;255;255;255m                         [49m
 [48;2;255;255;255m[38;2;51;51;51m[1m  🌈 SUMMARY RESULTS 🌈  [22m[39m[49m
 [48;2;255;255;255m                         [49m
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [22m[39m[39mfail but will be todo somehow[39m
 
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[37m[36m 1 skip[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m fiv[37m[35m 1 todo[39m[37m[36m 1 skip[39m[37m of[1m 4[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [35m[1m ☐ [22m[39m[39mno function, just a todo[39m
 [36m[1m ~ [22m[39m[39mhop over it[39m
 
-[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m0ms[39m[22m
-[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;255;255;255m[44m SKIP [49m[39m[22m for > [36mskip this whole thing for now[39m[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m nin[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m0ms[39m[22m
+[38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m tre[37m[35m 1 todo[39m[37m of[1m 7[22m [39m[1m[38;2;170;170;170m2s[39m[22m
 [35m[1m ☐ [22m[39m[39mdo this later[39m[39m > [35mat another time[39m[39m
 
-[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [22m[39m[39mthis is a failure[39m
 
 [1mSuites:[22m   [39m[31m2 failed[39m[22m[39m, [22m[39m[32m7 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m11 of 11 completed[22m
@@ -1602,10 +1602,10 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 10`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m4 passed[39m[22m[39m, [22m[39m4 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m4 passed[39m[22m[39m, [22m[39mof 4[22m
@@ -1613,11 +1613,11 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 11`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m for[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m for[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1mSuites:[22m   [39m[32m5 passed[39m[22m[39m, [22m[39m5 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m5 passed[39m[22m[39m, [22m[39mof 5[22m
@@ -1625,11 +1625,11 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 12`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m for[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m for[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m5 passed[39m[22m[39m, [22m[39m5 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m5 passed[39m[22m[39m, [22m[39mof 5[22m
@@ -1637,12 +1637,12 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 13`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m for[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m fiv[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m for[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m fiv[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 
 [48;2;255;255;255m                         [49m
 [48;2;255;255;255m[38;2;51;51;51m[1m  🌈 SUMMARY RESULTS 🌈  [22m[39m[49m
@@ -1661,7 +1661,7 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 3`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1mSuites:[22m   [39m[32m1 passed[39m[22m[39m, [22m[39m1 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m1 passed[39m[22m[39m, [22m[39mof 1[22m
@@ -1669,7 +1669,7 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 4`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m1 passed[39m[22m[39m, [22m[39m1 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m1 passed[39m[22m[39m, [22m[39mof 1[22m
@@ -1677,8 +1677,8 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 5`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m two[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1mSuites:[22m   [39m[32m2 passed[39m[22m[39m, [22m[39m2 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m2 passed[39m[22m[39m, [22m[39mof 2[22m
@@ -1686,8 +1686,8 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 6`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m two[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m2 passed[39m[22m[39m, [22m[39m2 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m2 passed[39m[22m[39m, [22m[39mof 2[22m
@@ -1695,9 +1695,9 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 7`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1mSuites:[22m   [39m[32m3 passed[39m[22m[39m, [22m[39m3 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m3 passed[39m[22m[39m, [22m[39mof 3[22m
@@ -1705,9 +1705,9 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 8`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m tre[37m [39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m3 passed[39m[22m[39m, [22m[39m3 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m3 passed[39m[22m[39m, [22m[39mof 3[22m
@@ -1715,10 +1715,10 @@ exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot
 `
 
 exports[`lib/reports/base/index.test.jsx TAP one at a time > must match snapshot 9`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m2s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1mSuites:[22m   [39m[32m4 passed[39m[22m[39m, [22m[39m4 of 6 completed[22m
 [1mAsserts:[22m  [39m[32m4 passed[39m[22m[39m, [22m[39mof 4[22m
@@ -1742,21 +1742,21 @@ exports[`lib/reports/base/index.test.jsx TAP weird root bailout > must match sna
 `
 
 exports[`lib/reports/base/index.test.jsx TAP weird root bailout > must match snapshot 3`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m zro[37m[1m 1[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[43m[38;2;0;0;0m RUNS [39m[49m[22m zro[37m[1m 1[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1mSuites:[22m   [39m[32m2 passed[39m[22m[39m, [22m[39m2 of 10 completed[22m
 [1mAsserts:[22m  [39m[32m6 passed[39m[22m[39m, [22m[39mof 6[22m
 [2m[1mTime:[2m[22m     [39m[2m[1m1s[2m[22m[22m
 `
 
 exports[`lib/reports/base/index.test.jsx TAP weird root bailout > must match snapshot 4`] = `
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
-[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 2[22m[32m OK [37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m two[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m tre[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
+[1m[38;2;0;0;0m[42m PASS [49m[39m[22m zro[37m[1m 2[22m[32m OK [39m[37m[39m[1m[38;2;170;170;170m1s[39m[22m
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m one
 [31m[1m ✖ [22m[39m[39mnot fine[39m
 
