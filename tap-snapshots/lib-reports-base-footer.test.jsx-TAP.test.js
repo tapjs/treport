@@ -6,7 +6,7 @@
  */
 'use strict'
 exports[`lib/reports/base/footer.test.jsx TAP > must match snapshot 1`] = `
-[1mSuites:[22m   [39m[31m1 failed[39m[22m[39m, [22m[39m[32m1 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39m4 of 4 completed[22m
-[1mAsserts:[22m  [39m[31m1 failed[39m[22m[39m, [22m[39m[32m1 passed[39m[22m[39m, [22m[39m[35m1 todo[39m[22m[39m, [22m[39m[36m1 skip[39m[22m[39m, [22m[39mof 4[22m
-[2m[1mTime:[2m[22m     [39m[2m[1m123ms[2m[22m[22m
+[0m[1mSuites:[22m[0m   [39m[0m[31m1 failed[39m[0m[0m[39m[0m, [0m[0m[39m[0m[32m1 passed[39m[0m[0m[39m[0m, [0m[0m[39m[0m[35m1 todo[39m[0m[0m[39m[0m, [0m[0m[39m[0m[36m1 skip[39m[0m[0m[39m[0m, [0m[0m[39m[0m4 of 4 completed[0m[0m
+[0m[1mAsserts:[22m[0m  [39m[0m[31m1 failed[39m[0m[0m[39m[0m, [0m[0m[39m[0m[32m1 passed[39m[0m[0m[39m[0m, [0m[0m[39m[0m[35m1 todo[39m[0m[0m[39m[0m, [0m[0m[39m[0m[36m1 skip[39m[0m[0m[39m[0m, [0m[0m[39m[0mof 4[0m[0m
+[0m[2m[1mTime:[2m[22m[0m     [39m[0m[2m[1m123ms[2m[22m[0m[0m
 `
