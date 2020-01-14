@@ -21,6 +21,7 @@ test.match({a: 1}, {a: Function}, 'no match')
 test.test('test without fn is a todo')
 test.test('todo test with named reason', { todo: 'i have my reasons' })
 const er = new Error('this is an error')
+const s = er.stack // trigger the getter
 // polyfill until tap publishes the origin-tracking feature
 const cleanYamlObject = require('tap/lib/clean-yaml-object.js')
 const extraFromError = require('tap/lib/extra-from-error.js')

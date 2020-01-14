@@ -21,7 +21,7 @@
     "ink-testing-library": "^1.0.2",
     "minipass": "^3.1.1",
     "react": "^16.8.6",
-    "tap": "^14.10.1"
+    "tap": "^14.10.5"
   },
   "license": "ISC",
   "scripts": {
