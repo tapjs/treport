@@ -7,8 +7,8 @@
 'use strict'
 exports[`lib/reports/specy/log.test.jsx TAP > must match snapshot 1`] = `
 hello
-[32m[1m✓ [22m[39m[39mthis is fine[39m
-[31m[1m✖ [22m[39m[39mnot fine[39m
+[32m[1m✓ [39m[22mthis is fine
+[31m[1m✖ [39m[22mnot fine
 
 
 `

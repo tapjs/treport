@@ -10,7 +10,7 @@ hello
 `
 
 exports[`lib/reports/base/result.test.jsx TAP > result 1`] = `
-[32m[1m ✓ [22m[39m[39mhi[39m
+[32m[1m ✓ [39m[22mhi
 
 `
 

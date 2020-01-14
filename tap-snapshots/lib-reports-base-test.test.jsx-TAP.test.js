@@ -31,11 +31,11 @@ exports[`lib/reports/base/test.test.jsx TAP > pending 1`] = `
 
 exports[`lib/reports/base/test.test.jsx TAP > skip, todo, fail 1`] = `
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m skip, todo, fail[37m[31m 1 failed[39m[37m[35m 2 todo[39m[37m[36m 2 skip[39m[37m of[1m 6[22m [39m[1m[38;2;170;170;170m123ms[39m[22m
-[31m[1m ✖ [22m[39m[39mfail[39m
-[35m[1m ☐ [22m[39m[39mtodo[39m
-[35m[1m ☐ [22m[39m[39mtodo this tho[39m[39m > [35mreasons[39m[39m
-[36m[1m ~ [22m[39m[39mskip[39m
-[36m[1m ~ [22m[39m[39mskip this tho[39m[39m > [36mreasons[39m[39m
+[31m[1m ✖ [39m[22mfail
+[35m[1m ☐ [39m[22mtodo
+[35m[1m ☐ [39m[22mtodo this tho > [35mreasons[39m
+[36m[1m ~ [39m[22mskip
+[36m[1m ~ [39m[22mskip this tho > [36mreasons[39m
 
 `
 
