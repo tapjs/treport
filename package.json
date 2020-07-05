@@ -7,7 +7,7 @@
     "cardinal": "^2.1.1",
     "chalk": "^3.0.0",
     "import-jsx": "^3.1.0",
-    "ink": "^2.6.0",
+    "ink": "^3.0.0-5",
     "ms": "^2.1.2",
     "string-length": "^3.1.0",
     "tap-parser": "^10.0.1",
@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "events-to-array": "^1.1.2",
-    "ink-testing-library": "^1.0.2",
+    "ink-testing-library": "^2.0.0",
     "minipass": "^3.1.1",
     "react": "^16.8.6",
     "tap": "^14.10.5"
