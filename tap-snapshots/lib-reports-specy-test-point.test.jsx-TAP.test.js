@@ -6,12 +6,12 @@
  */
 'use strict'
 exports[`lib/reports/specy/test-point.test.jsx TAP > magma 1`] = `
-[36m[1m~ [39m[22mmagma > [36mhop over the lava[39m
+[1m[36m~ [22m[39mmagma > [36mhop over the lava[39m
 
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > no match 1`] = `
-[31m[1m✖ [39m[22mno match
+[1m[31m✖ [22m[39mno match
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/specy/test-point.test.jsx[39m                                 [49m
 [48;2;34;34;34m [38;2;119;119;119m 24 | [39m[36mconst[39m [38;2;238;238;238ms[39m [93m=[39m [38;2;238;238;238mer[39m[32m.[39m[38;2;238;238;238mstack[39m [32m// trigger the getter[39m                         [49m
@@ -35,7 +35,7 @@ exports[`lib/reports/specy/test-point.test.jsx TAP > no match 1`] = `
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > not so fine 1`] = `
-[31m[1m✖ [39m[22mnot so fine
+[1m[31m✖ [22m[39mnot so fine
 
 [48;2;34;34;34m[38;2;170;170;170m  lib/reports/specy/test-point.test.jsx[39m                                 [49m
 [48;2;34;34;34m [38;2;119;119;119m 23 | [39m[36mconst[39m [38;2;238;238;238mer[39m [93m=[39m [31mnew[39m [38;2;238;238;238mError[39m[93m([39m[92m'this is an error'[39m[93m)[39m                         [49m
@@ -51,7 +51,7 @@ exports[`lib/reports/specy/test-point.test.jsx TAP > not so fine 1`] = `
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > should be equal 1`] = `
-[31m[1m✖ [39m[22mshould be equal
+[1m[31m✖ [22m[39mshould be equal
 
   [38;2;51;0;0m[48;2;255;153;204m--- expected    [49m[39m
   [38;2;0;51;0m[48;2;204;255;153m+++ actual      [49m[39m
@@ -68,7 +68,7 @@ exports[`lib/reports/specy/test-point.test.jsx TAP > should be equal 1`] = `
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > should be equivalent 1`] = `
-[31m[1m✖ [39m[22mshould be equivalent
+[1m[31m✖ [22m[39mshould be equivalent
 
   [38;2;51;0;0m[48;2;255;153;204m--- expected    [49m[39m
   [38;2;0;51;0m[48;2;204;255;153m+++ actual      [49m[39m
@@ -87,15 +87,15 @@ exports[`lib/reports/specy/test-point.test.jsx TAP > should be equivalent 1`] = 
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > test without fn is a todo 1`] = `
-[35m[1m☐ [39m[22mtest without fn is a todo
+[1m[35m☐ [22m[39mtest without fn is a todo
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > this is fine 1`] = `
-[32m[1m✓ [39m[22mthis is fine
+[1m[32m✓ [22m[39mthis is fine
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > to er is to fail this assertion 1`] = `
-[31m[1m✖ [39m[22mto er is to fail this assertion
+[1m[31m✖ [22m[39mto er is to fail this assertion
 
   at:
     line: 46
@@ -123,5 +123,5 @@ test.resume()
 `
 
 exports[`lib/reports/specy/test-point.test.jsx TAP > todo test with named reason 1`] = `
-[35m[1m☐ [39m[22mtodo test with named reason > [35mi have my reasons[39m
+[1m[35m☐ [22m[39mtodo test with named reason > [35mi have my reasons[39m
 `
