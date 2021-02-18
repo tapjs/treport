@@ -174,12 +174,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [0m[1mSuites:[22m[0m   [0m[0m[31m1 failed[0m[0m, [0m[0m1 of 11 completed[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 [0m[1mAsserts:[22m[0m  [0m[0m[31m1 failed[0m[0m, [0m[0mof 1[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
@@ -201,12 +201,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [0m[1mSuites:[22m[0m   [0m[0m[31m1 failed[0m[0m, [0m[0m1 of 11 completed[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 [0m[1mAsserts:[22m[0m  [0m[0m[31m1 failed[0m[0m, [0m[0mof 1[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
@@ -228,12 +228,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [0m[1mSuites:[22m[0m   [0m[0m[31m1 failed[0m[0m, [0m[0m[32m1 passed[0m[0m, [0m[0m2 of 11 completed[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 [0m[1mAsserts:[22m[0m  [0m[0m[31m1 failed[0m[0m, [0m[0m[32m10 passed[0m[0m, [0m[0mof 11[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
@@ -255,12 +255,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [0m[1mSuites:[22m[0m   [0m[0m[31m1 failed[0m[0m, [0m[0m[32m2 passed[0m[0m, [0m[0m3 of 11 completed[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 [0m[1mAsserts:[22m[0m  [0m[0m[31m1 failed[0m[0m, [0m[0m[32m11 passed[0m[0m, [0m[0mof 12[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
@@ -282,12 +282,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [0m[1mSuites:[22m[0m   [0m[0m[31m1 failed[0m[0m, [0m[0m[32m2 passed[0m[0m, [0m[0m3 of 11 completed[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
@@ -310,12 +310,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [0m[1mSuites:[22m[0m   [0m[0m[31m1 failed[0m[0m, [0m[0m[32m2 passed[0m[0m, [0m[0m[36m1 skip[0m[0m, [0m[0m4 of 11 completed[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
@@ -343,12 +343,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [1m[2mfiv 1> [22m[22mthis is definitely not tap
@@ -375,12 +375,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [1m[2mfiv 1> [22m[22mthis is definitely not tap
@@ -420,12 +420,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:116:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22meit
@@ -450,12 +450,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:60:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
 [1m[2mfiv 1> [22m[22mthis is definitely not tap
@@ -495,12 +495,12 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:116:12)
     Object.<anonymous> (lib/reports/terse/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22meit

@@ -1,3 +1,9 @@
+// for some reason all the jsx and whatnot makes this error get
+// its effective origin all screwed up.  something something source maps.
+// put it at the top of the file so we at least cover the code that
+// attempts to get the source of the error, which normally does work.
+const er = new Error('this is an error')
+
 const React = require('react')
 const t = require('tap')
 const importJSX = require('import-jsx')
@@ -16,20 +22,20 @@ test.parser.on('assert', res => {
   t.matchSnapshot(r.lastFrame(), res.name)
 })
 
+test.resume()
+
 test.pass('this is fine')
 test.fail('not so fine')
 test.match({a: 1}, {a: Function}, 'no match')
 test.test('test without fn is a todo')
 test.test('todo test with named reason', { todo: 'i have my reasons' })
-const er = new Error('this is an error')
-// polyfill until tap publishes the origin-tracking feature
-const s = er.stack // trigger the getter
-const cleanYamlObject = require('tap/lib/clean-yaml-object.js')
-const extraFromError = require('tap/lib/extra-from-error.js')
-const extra = { origin: cleanYamlObject(extraFromError(er)) }
-test.error(er, 'to er is to fail this assertion', extra)
 test.equal(1, 2)
 test.same({a: 1}, {b: 2})
 test.fail('magma', { skip: 'hop over the lava' })
 test.fail('rope', { skip: true })
-test.resume()
+
+test.test('only filtered child test', { skip: 'filter: only' }, t => t.end())
+test.test('grep filtered child test', { skip: 'filter: /foo/' }, t => t.end())
+
+test.error(er, 'to er is to fail this assertion')
+test.end()

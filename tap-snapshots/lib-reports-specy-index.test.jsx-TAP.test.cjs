@@ -195,12 +195,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m [39m[1m[38;2;170;170;170m1s[39m[22m
@@ -225,12 +225,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m one[37m [39m[1m[38;2;170;170;170m1s[39m[22m
@@ -255,12 +255,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m fiv[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m for[37m [39m[1m[38;2;170;170;170m1s[39m[22m
@@ -285,12 +285,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 one
@@ -327,12 +327,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 one
@@ -370,12 +370,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 one
@@ -419,12 +419,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 one
@@ -463,12 +463,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 one
@@ -536,12 +536,12 @@ eit
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:116:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m nin[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [1m[43m[38;2;0;0;0m RUNS [39m[49m[22m ten[37m [39m[1m[38;2;170;170;170m0ms[39m[22m
@@ -564,12 +564,12 @@ zro
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:60:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 one
@@ -637,12 +637,12 @@ eit
     stack: |
       Test.<anonymous> (lib/reports/specy/index.test.jsx:116:12)
       Object.<anonymous> (lib/reports/specy/index.test.jsx:26:3)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
       module.exports (node_modules/default-require-extensions/js.js:7:9)
-      node_modules/append-transform/index.js:62:4
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-      Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-      Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+      node_modules/append-transform/index.js:64:4
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+      Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+      Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 
 nin

@@ -22,25 +22,25 @@ let fail
 tt.test('failer', t => {
   fail = t
 })
-t.isa(fail, Test, 'created fail test')
+t.type(fail, Test, 'created fail test')
 
 let todo
 tt.test('todo', t => {
   todo = t
 })
-t.isa(todo, Test, 'created todo test')
+t.type(todo, Test, 'created todo test')
 
 let skip
 tt.test('skip', t => {
   skip = t
 })
-t.isa(skip, Test, 'created skip test')
+t.type(skip, Test, 'created skip test')
 
 let pass
 tt.test('pass', t => {
   pass = t
 })
-t.isa(pass, Test, 'created pass test')
+t.type(pass, Test, 'created pass test')
 
 const tests = [fail, pass, skip, todo]
 

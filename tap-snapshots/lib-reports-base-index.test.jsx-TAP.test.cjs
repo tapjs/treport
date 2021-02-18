@@ -184,12 +184,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -232,12 +232,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -280,12 +280,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -328,12 +328,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -376,12 +376,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -414,12 +414,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -453,12 +453,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -491,12 +491,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -530,12 +530,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -568,12 +568,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -608,12 +608,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -646,12 +646,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -687,12 +687,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -725,12 +725,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -767,12 +767,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -805,12 +805,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -848,12 +848,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -893,12 +893,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -931,12 +931,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -978,12 +978,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1016,12 +1016,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -1079,12 +1079,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:125:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [39m[22mfail but will be todo somehow
@@ -1116,12 +1116,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1154,12 +1154,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:69:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m zro[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m1s[39m[22m
 [31m[1m ✖ [39m[22mthis is a failure
@@ -1217,12 +1217,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:125:12)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[41m[38;2;255;255;255m FAIL [39m[49m[22m eit[37m[31m 1 failed[39m[37m of[1m 1[22m [39m[1m[38;2;170;170;170m0ms[39m[22m
 [31m[1m ✖ [39m[22mfail but will be todo somehow
@@ -1277,12 +1277,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1323,12 +1323,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1370,12 +1370,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1418,12 +1418,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1466,12 +1466,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1514,12 +1514,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
@@ -1562,12 +1562,12 @@ exports[`lib/reports/base/index.test.jsx TAP mostly good test run > must match s
   stack: |
     Test.<anonymous> (lib/reports/base/index.test.jsx:37:7)
     Object.<anonymous> (lib/reports/base/index.test.jsx:26:3)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     module.exports (node_modules/default-require-extensions/js.js:7:9)
-    node_modules/append-transform/index.js:62:4
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
-    Module.replacementCompile (node_modules/append-transform/index.js:58:13)
-    Object.<anonymous> (node_modules/append-transform/index.js:62:4)
+    node_modules/append-transform/index.js:64:4
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
+    Module.replacementCompile (node_modules/append-transform/index.js:60:13)
+    Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [38;2;255;255;255m[48;2;127;0;127m[1m TODO [22m[49m[39m TAP
 [35m[1m ☐ [39m[22mdo later
