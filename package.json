@@ -33,7 +33,6 @@
   },
   "tap": {
     "jsx": true,
-    "check-coverage": true,
     "test-env": [
       "TERM_PROGRAM=iTerm.app",
       "TERM=xterm-256color",
