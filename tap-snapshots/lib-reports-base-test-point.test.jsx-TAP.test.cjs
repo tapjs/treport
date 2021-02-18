@@ -6,7 +6,6 @@
  */
 'use strict'
 exports[`lib/reports/base/test-point.test.jsx TAP > grep filtered child test 1`] = `
-[36m[1m ~ [39m[22mgrep filtered child test > [36mfilter: /foo/[39m
 
 `
 
@@ -58,7 +57,6 @@ exports[`lib/reports/base/test-point.test.jsx TAP > not so fine 1`] = `
 `
 
 exports[`lib/reports/base/test-point.test.jsx TAP > only filtered child test 1`] = `
-[36m[1m ~ [39m[22monly filtered child test > [36mfilter: only[39m
 
 `
 
