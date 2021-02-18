@@ -6,7 +6,7 @@
   "dependencies": {
     "cardinal": "^2.1.1",
     "chalk": "^3.0.0",
-    "import-jsx": "^3.1.0",
+    "import-jsx": "^4.0.0",
     "ink": "^2.6.0",
     "ms": "^2.1.2",
     "string-length": "^3.1.0",
