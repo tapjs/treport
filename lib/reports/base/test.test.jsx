@@ -58,6 +58,7 @@ Date.now = () => 1234
 let r = null
 for (const c in cases) {
   const fn = cases[c]
+  process.env.TAP_BAIL = '0'
   const tt = new Test({name: c})
   tt.startTime = 0
   tt.endTime = 0

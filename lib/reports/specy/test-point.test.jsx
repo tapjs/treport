@@ -6,6 +6,7 @@ const {render} = require('ink-testing-library')
 
 const r = render(<div />)
 
+process.env.TAP_BAIL = '0'
 const test = new t.Test()
 test.name = 'some name'
 test.parser.on('assert', res => {
