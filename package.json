@@ -6,22 +6,21 @@
   "dependencies": {
     "cardinal": "^2.1.1",
     "chalk": "^3.0.0",
-    "import-jsx": "^4.0.0",
-    "ink": "^2.6.0",
+    "import-jsx": "github:isaacs/import-jsx",
+    "ink": "^3.2.0",
     "ms": "^2.1.2",
-    "string-length": "^3.1.0",
     "tap-parser": "^10.0.1",
     "unicode-length": "^2.0.2"
   },
   "peerDependencies": {
-    "react": "^16.8.6"
+    "react": "^17.0.2"
   },
   "devDependencies": {
     "events-to-array": "^1.1.2",
-    "ink-testing-library": "^1.0.2",
+    "ink-testing-library": "^2.1.0",
     "minipass": "^3.1.1",
-    "react": "^16.8.6",
-    "tap": "^15.0.7"
+    "react": "^17.0.2",
+    "tap": "^15.0.10"
   },
   "license": "ISC",
   "scripts": {
