@@ -6,65 +6,65 @@
  */
 'use strict'
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":0,"todo":0,"skip":0} 1`] = `
-[1mAsserts:[22m  0 of 0
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":0,"todo":0,"skip":1} 1`] = `
-[1mAsserts:[22m  [36m1 skip[39m, of 1
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":0,"todo":1,"skip":0} 1`] = `
-[1mAsserts:[22m  [35m1 todo[39m, of 1
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":0,"todo":1,"skip":1} 1`] = `
-[1mAsserts:[22m  [35m1 todo[39m, [36m1 skip[39m, of 2
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":1,"todo":0,"skip":0} 1`] = `
-[1mAsserts:[22m  [32m1 passed[39m, of 1
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":1,"todo":0,"skip":1} 1`] = `
-[1mAsserts:[22m  [32m1 passed[39m, [36m1 skip[39m, of 2
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":1,"todo":1,"skip":0} 1`] = `
-[1mAsserts:[22m  [32m1 passed[39m, [35m1 todo[39m, of 2
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":0,"pass":1,"todo":1,"skip":1} 1`] = `
-[1mAsserts:[22m  [32m1 passed[39m, [35m1 todo[39m, [36m1 skip[39m, of 3
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 3[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":0,"todo":0,"skip":0} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, of 1
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":0,"todo":0,"skip":1} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [36m1 skip[39m, of 2
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":0,"todo":1,"skip":0} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [35m1 todo[39m, of 2
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":0,"todo":1,"skip":1} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [35m1 todo[39m, [36m1 skip[39m, of 3
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 3[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":1,"todo":0,"skip":0} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [32m1 passed[39m, of 2
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":1,"todo":0,"skip":1} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [32m1 passed[39m, [36m1 skip[39m, of 3
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 3[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":1,"todo":1,"skip":0} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [32m1 passed[39m, [35m1 todo[39m, of 3
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0mof 3[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/base/assert-counts.test.jsx TAP > {"fail":1,"pass":1,"todo":1,"skip":1} 1`] = `
-[1mAsserts:[22m  [31m1 failed[39m, [32m1 passed[39m, [35m1 todo[39m, [36m1 skip[39m, of 4
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 4[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `

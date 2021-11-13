@@ -6,24 +6,18 @@
  */
 'use strict'
 exports[`lib/reports/terse/index.test.jsx TAP bailout run > must match snapshot 1`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 0 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 0 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP bailout run > must match snapshot 2`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 6 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 6 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP bailout run > must match snapshot 3`] = `
-[0m​[0m
-[1mSuites:[22m   [32m2 passed[39m, 2 of 6 completed
-[1mAsserts:[22m  [32m6 passed[39m, of 6
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m2 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m6 passed[0m[0m​[0m, [0m[0m​[0mof 6[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP bailout run > must match snapshot 4`] = `
@@ -64,10 +58,8 @@ exports[`lib/reports/terse/index.test.jsx TAP bailout run > must match snapshot 
 
 [1m[31mBAILOUT [39m[22mnot fine
 
-[0m​[0m
-[1mSuites:[22m   [32m3 passed[39m, 3 of 6 completed
-[1mAsserts:[22m  [31m2 failed[39m, [32m10 passed[39m, of 12
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m3 passed[0m[0m​[0m, [0m[0m​[0m3 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m2 failed[0m[0m​[0m, [0m[0m​[0m[32m10 passed[0m[0m​[0m, [0m[0m​[0mof 12[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > current tests 1`] = `
@@ -142,38 +134,28 @@ Array [
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 1`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 0 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 0 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 10`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 9 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 9 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 11`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 10 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 10 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 12`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 11 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 11 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 13`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 11 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 11 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 14`] = `
@@ -199,10 +181,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, 1 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, of 1
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m1 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 15`] = `
@@ -228,10 +208,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, 1 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, of 1
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m1 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 16`] = `
@@ -257,10 +235,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, [32m1 passed[39m, 2 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, [32m10 passed[39m, of 11
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m2 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m10 passed[0m[0m​[0m, [0m[0m​[0mof 11[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 17`] = `
@@ -286,10 +262,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Module.replacementCompile (node_modules/append-transform/index.js:60:13)
     Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, [32m2 passed[39m, 3 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, [32m11 passed[39m, of 12
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m3 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m11 passed[0m[0m​[0m, [0m[0m​[0mof 12[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 18`] = `
@@ -316,10 +290,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, [32m2 passed[39m, 3 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, [32m11 passed[39m, of 12
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m3 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m11 passed[0m[0m​[0m, [0m[0m​[0mof 12[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 19`] = `
@@ -346,17 +318,13 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
     Object.<anonymous> (node_modules/append-transform/index.js:64:4)
 
 [1m[2mfor 2> [22m[22mthis is some raw 2> stuff
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, [32m2 passed[39m, [36m1 skip[39m, 4 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, [32m13 passed[39m, of 14
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0m4 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m13 passed[0m[0m​[0m, [0m[0m​[0mof 14[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 2`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 1 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 1 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 20`] = `
@@ -387,10 +355,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
 [0m​[0m[1m[38;2;255;255;255m[44m SKIP [0m[0m​[0m fiv[0m[0m[1m[38;2;255;255;255m[44m[0m[0m[0m[0m[0m[0m[0m
 [36m[1m ~ [39m[22mhop over it
 
-[0m​[0m
-[1mSuites:[22m   [31m1 failed[39m, [32m2 passed[39m, [36m1 skip[39m, 4 of 11 completed
-[1mAsserts:[22m  [31m1 failed[39m, [32m13 passed[39m, [36m1 skip[39m, of 15
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0m4 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m1 failed[0m[0m​[0m, [0m[0m​[0m[32m13 passed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0mof 15[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 21`] = `
@@ -464,10 +430,8 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
 [0m​[0m[38;2;255;255;255m[48;2;127;0;127m[1m TODO [0m[0m​[0m TAP[0m[0m[38;2;255;255;255m[48;2;127;0;127m[1m[0m[0m[0m[0m[0m[0m[0m
 [35m[1m ☐ [39m[22meit
 
-[0m​[0m
-[1mSuites:[22m   [31m2 failed[39m, [32m6 passed[39m, [36m1 skip[39m, 9 of 11 completed
-[1mAsserts:[22m  [31m2 failed[39m, [32m21 passed[39m, [35m2 todo[39m, [36m2 skip[39m, of 27
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m2 failed[0m[0m​[0m, [0m[0m​[0m[32m6 passed[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0m9 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[36m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m2 failed[0m[0m​[0m, [0m[0m​[0m[32m21 passed[0m[0m​[0m, [0m[0m​[0m[35m2 todo[0m[0m​[0m, [0m[0m​[0m[36m2 skip[0m[0m​[0m, [0m[0m​[0mof 27[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 22`] = `
@@ -559,171 +523,123 @@ exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match 
 [0m​[0m[1m[41m[38;2;255;255;255m FAIL [0m[0m​[0m zro[0m[37m[31m 1 failed[39m[37m of[1m 1[22m [0m[1m[38;2;170;170;170m1s[39m[22m[0m[0m[41m[0m[0m[0m[0m[31m[37m[1m[0m[0m[1m[41m[38;2;255;255;255m[0m[0m[0m[0m[0m[1m[41m[38;2;255;255;255m[0m[0m[0m[0m[0m[0m[0m
 [31m[1m ✖ [39m[22mthis is a failure
 
-[0m​[0m
-[1mSuites:[22m   [31m2 failed[39m, [32m7 passed[39m, [35m1 todo[39m, [36m1 skip[39m, 11 of 11 completed
-[1mAsserts:[22m  [31m2 failed[39m, [32m24 passed[39m, [35m4 todo[39m, [36m2 skip[39m, of 32
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[31m2 failed[0m[0m​[0m, [0m[0m​[0m[32m7 passed[0m[0m​[0m, [0m[0m​[0m[35m1 todo[0m[0m​[0m, [0m[0m​[0m[36m1 skip[0m[0m​[0m, [0m[0m​[0m11 of 11 completed[0m[0m​[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m2 failed[0m[0m​[0m, [0m[0m​[0m[32m24 passed[0m[0m​[0m, [0m[0m​[0m[35m4 todo[0m[0m​[0m, [0m[0m​[0m[36m2 skip[0m[0m​[0m, [0m[0m​[0mof 32[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[36m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[35m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 3`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 2 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 2 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 4`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 3 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 3 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 5`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 4 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 4 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 6`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 5 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 5 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 7`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 6 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 6 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 8`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 7 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 7 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP mostly good test run > must match snapshot 9`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 8 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 8 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 1`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 0 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 0 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 10`] = `
-[0m​[0m
-[1mSuites:[22m   [32m4 passed[39m, 4 of 6 completed
-[1mAsserts:[22m  [32m4 passed[39m, of 4
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m4 passed[0m[0m​[0m, [0m[0m​[0m4 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m4 passed[0m[0m​[0m, [0m[0m​[0mof 4[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 11`] = `
-[0m​[0m
-[1mSuites:[22m   [32m5 passed[39m, 5 of 6 completed
-[1mAsserts:[22m  [32m5 passed[39m, of 5
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m5 passed[0m[0m​[0m, [0m[0m​[0m5 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m5 passed[0m[0m​[0m, [0m[0m​[0mof 5[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 12`] = `
-[0m​[0m
-[1mSuites:[22m   [32m5 passed[39m, 5 of 6 completed
-[1mAsserts:[22m  [32m5 passed[39m, of 5
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m5 passed[0m[0m​[0m, [0m[0m​[0m5 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m5 passed[0m[0m​[0m, [0m[0m​[0mof 5[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 13`] = `
-[0m​[0m
-[1mSuites:[22m   [32m6 passed[39m, 6 of 6 completed
-[1mAsserts:[22m  [32m6 passed[39m, of 6
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m6 passed[0m[0m​[0m, [0m[0m​[0m6 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m6 passed[0m[0m​[0m, [0m[0m​[0mof 6[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 2`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 6 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 6 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 3`] = `
-[0m​[0m
-[1mSuites:[22m   [32m1 passed[39m, 1 of 6 completed
-[1mAsserts:[22m  [32m1 passed[39m, of 1
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m1 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 4`] = `
-[0m​[0m
-[1mSuites:[22m   [32m1 passed[39m, 1 of 6 completed
-[1mAsserts:[22m  [32m1 passed[39m, of 1
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0m1 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m1 passed[0m[0m​[0m, [0m[0m​[0mof 1[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 5`] = `
-[0m​[0m
-[1mSuites:[22m   [32m2 passed[39m, 2 of 6 completed
-[1mAsserts:[22m  [32m2 passed[39m, of 2
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m2 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 6`] = `
-[0m​[0m
-[1mSuites:[22m   [32m2 passed[39m, 2 of 6 completed
-[1mAsserts:[22m  [32m2 passed[39m, of 2
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m2 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0mof 2[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 7`] = `
-[0m​[0m
-[1mSuites:[22m   [32m3 passed[39m, 3 of 6 completed
-[1mAsserts:[22m  [32m3 passed[39m, of 3
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m3 passed[0m[0m​[0m, [0m[0m​[0m3 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m3 passed[0m[0m​[0m, [0m[0m​[0mof 3[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 8`] = `
-[0m​[0m
-[1mSuites:[22m   [32m3 passed[39m, 3 of 6 completed
-[1mAsserts:[22m  [32m3 passed[39m, of 3
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m3 passed[0m[0m​[0m, [0m[0m​[0m3 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m3 passed[0m[0m​[0m, [0m[0m​[0mof 3[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP one at a time > must match snapshot 9`] = `
-[0m​[0m
-[1mSuites:[22m   [32m4 passed[39m, 4 of 6 completed
-[1mAsserts:[22m  [32m4 passed[39m, of 4
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m4 passed[0m[0m​[0m, [0m[0m​[0m4 of 6 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m4 passed[0m[0m​[0m, [0m[0m​[0mof 4[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP weird root bailout > must match snapshot 1`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 0 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 0 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP weird root bailout > must match snapshot 2`] = `
-[0m​[0m
-[1mSuites:[22m   0 of 10 completed
-[1mAsserts:[22m  0 of 0
-[0m​[0m
+[1mSuites:[22m   [0m​[0m0 of 10 completed[0m[0m​[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m0 [0m[0m​[0m[0m​[0mof 0[0m[0m​[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP weird root bailout > must match snapshot 3`] = `
-[0m​[0m
-[1mSuites:[22m   [32m2 passed[39m, 2 of 10 completed
-[1mAsserts:[22m  [32m6 passed[39m, of 6
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m2 passed[0m[0m​[0m, [0m[0m​[0m2 of 10 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[32m6 passed[0m[0m​[0m, [0m[0m​[0mof 6[0m[0m​[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
 
 exports[`lib/reports/terse/index.test.jsx TAP weird root bailout > must match snapshot 4`] = `
@@ -774,8 +690,6 @@ exports[`lib/reports/terse/index.test.jsx TAP weird root bailout > must match sn
   stack: |
     Test.<anonymous> (lib/reports/terse/index.test.jsx:238:12)
 
-[0m​[0m
-[1mSuites:[22m   [32m3 passed[39m, 3 of 10 completed
-[1mAsserts:[22m  [31m3 failed[39m, [32m10 passed[39m, of 13
-[0m​[0m
+[1mSuites:[22m   [0m​[0m[32m3 passed[0m[0m​[0m, [0m[0m​[0m3 of 10 completed[0m[0m​[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m
+[1mAsserts:[22m  [0m​[0m[0m​[0m[0m​[0m[31m3 failed[0m[0m​[0m, [0m[0m​[0m[32m10 passed[0m[0m​[0m, [0m[0m​[0mof 13[0m[0m​[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[32m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[31m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m[0m
 `
