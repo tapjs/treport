@@ -15,5 +15,5 @@ exports[`lib/reports/base/result.test.jsx TAP > result 1`] = `
 `
 
 exports[`lib/reports/base/result.test.jsx TAP > test 1`] = `
-[1m[43m[38;2;0;0;0m RUNS [22m[49m[39m undefined[37m[1m 1[22m[32m OK [39m[2m ...[22m[37m
+[0m​[0m[1m[43m[38;2;0;0;0m RUNS [0m[0m​[0m undefined[0m[37m[1m 1[22m[32m OK [0m[2m ...[22m[0m[0m[43m[0m[0m[0m[0m[1m[32m[37m[0m[0m[1m[43m[38;2;0;0;0m[0m[0m[0m[0m[0m[1m[43m[38;2;0;0;0m[0m[0m[0m[0m[0m[0m[0m
 `

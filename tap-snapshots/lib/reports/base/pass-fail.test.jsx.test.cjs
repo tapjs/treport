@@ -10,5 +10,5 @@ exports[`lib/reports/base/pass-fail.test.jsx TAP > no name 1`] = `
 `
 
 exports[`lib/reports/base/pass-fail.test.jsx TAP > with a name 1`] = `
-[1m[38;2;0;0;0m[42m PASS [22m[39m[49m this is fine
+[0m​[0m[1m[38;2;0;0;0m[42m PASS [0m[0m​[0m this is fine[0m[0m[1m[38;2;0;0;0m[42m[0m[0m[0m[0m[0m[0m[0m
 `
