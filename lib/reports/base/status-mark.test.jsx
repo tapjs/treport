@@ -1,6 +1,6 @@
 const React = require('react')
 const t = require('tap')
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const StatusMark = importJSX('./status-mark.js')
 const {render} = require('ink-testing-library')
 

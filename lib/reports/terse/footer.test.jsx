@@ -1,5 +1,5 @@
 const React = require('react')
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const t = require('tap')
 const {render} = require('ink-testing-library')
 const Footer = importJSX('./footer.js')

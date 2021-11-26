@@ -4,9 +4,9 @@
   "version": "3.0.0",
   "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",
   "dependencies": {
+    "@isaacs/import-jsx": "^4.0.1",
     "cardinal": "^2.1.1",
     "chalk": "^3.0.0",
-    "import-jsx": "github:isaacs/import-jsx",
     "ink": "^3.2.0",
     "ms": "^2.1.2",
     "tap-parser": "^10.0.1",
@@ -20,7 +20,7 @@
     "ink-testing-library": "^2.1.0",
     "minipass": "^3.1.1",
     "react": "^17.0.2",
-    "tap": "github:tapjs/node-tap#isaacs/update-the-world"
+    "tap": "^15.1.2"
   },
   "license": "ISC",
   "scripts": {

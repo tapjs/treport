@@ -1,5 +1,5 @@
 const React = require('react')
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const {render} = require('ink-testing-library')
 const t = require('tap')
 const SuiteCounts = importJSX('./suite-counts.js')

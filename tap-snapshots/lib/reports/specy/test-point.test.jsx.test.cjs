@@ -125,7 +125,7 @@ exports[`lib/reports/specy/test-point.test.jsx TAP > to er is to fail this asser
 [48;2;34;34;34m    [38;2;119;119;119m| [39m[31m-----------[1m^[22m[39m                                                           [49m
 [48;2;34;34;34m [38;2;119;119;119m 6 | [39m[36mconst[39m [38;2;238;238;238mReact[39m [93m=[39m [38;2;238;238;238mrequire[39m[93m([39m[92m'react'[39m[93m)[39m                                         [49m
 [48;2;34;34;34m [38;2;119;119;119m 7 | [39m[36mconst[39m [38;2;238;238;238mt[39m [93m=[39m [38;2;238;238;238mrequire[39m[93m([39m[92m'tap'[39m[93m)[39m                                               [49m
-[48;2;34;34;34m [38;2;119;119;119m 8 | [39m[36mconst[39m [38;2;238;238;238mimportJSX[39m [93m=[39m [38;2;238;238;238mrequire[39m[93m([39m[92m'import-jsx'[39m[93m)[39m                                [49m
+[48;2;34;34;34m [38;2;119;119;119m 8 | [39m[36mconst[39m [38;2;238;238;238mimportJSX[39m [93m=[39m [38;2;238;238;238mrequire[39m[93m([39m[92m'@isaacs/import-jsx'[39m[93m)[39m                        [49m
 
   stack: |
     Object.<anonymous> (lib/reports/specy/test-point.test.jsx:5:12)

@@ -1,5 +1,5 @@
 const React = require('react')
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const t = require('tap')
 const AssertName = importJSX('./assert-name.js')
 const {render} = require('ink-testing-library')

@@ -2,7 +2,7 @@ let tickCount = 1
 const tick = () => tickCount += 1
 Date.now = () => 1000 * tickCount
 process.hrtime = (hr) => !hr ? [tickCount, 0] : [tickCount - hr[0], 0]
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const React = require('react')
 const Report = importJSX('./index.js')
 const t = require('tap')

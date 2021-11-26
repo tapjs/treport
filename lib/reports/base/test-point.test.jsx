@@ -6,7 +6,7 @@ const er = new Error('this is an error')
 
 const React = require('react')
 const t = require('tap')
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const TestPoint = importJSX('./test-point.js')
 const {render} = require('ink-testing-library')
 

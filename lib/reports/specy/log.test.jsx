@@ -1,4 +1,4 @@
-const importJSX = require('import-jsx')
+const importJSX = require('@isaacs/import-jsx')
 const React = require('react')
 const Log = importJSX('./log.js')
 const t = require('tap')
