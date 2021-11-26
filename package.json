@@ -1,7 +1,7 @@
 {
   "name": "treport",
   "description": "Reporters for node-tap",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",
   "dependencies": {
     "@isaacs/import-jsx": "^4.0.1",
