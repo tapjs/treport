@@ -6,7 +6,7 @@
   "dependencies": {
     "@isaacs/import-jsx": "^4.0.1",
     "cardinal": "^2.1.1",
-    "chalk": "^3.0.0",
+    "chalk": "^5.0.0",
     "ink": "^3.2.0",
     "ms": "^2.1.2",
     "tap-parser": "^10.0.1",
